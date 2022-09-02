@@ -2,1012 +2,1008 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<00648b80-4d84-43f2-9f6a-6fdf3a24092f> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
-    skos:definition "Die Schülerinnen und Schüler erschließen sich Texte unterschiedlicher medialer Form – auch als Grundlage für die mündliche und schriftliche Anschlusskommunikation."@de ;
+<008fbecd-d667-4304-a097-491936b91f40> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
     skos:inScheme <> ;
-    skos:notation "4.3" ;
-    skos:prefLabel "Texte in unterschiedlicher medialer Form erschließen und nutzen"@de .
+    skos:notation "2.2.5" ;
+    skos:prefLabel "kennen und nutzen die Interpunktionszeichen: Punkt, Komma, Fragezeichen, Ausrufezeichen, Anführungszeichen, Semikolon, Doppelpunkt, Auslassungspunkte, Gedankenstrich, Klammern,"@de .
 
-<00a6d3d7-fa42-48ca-8303-e745aa4f6f2e> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
+<0205933e-fde1-420d-8cc9-7d2a91704146> a skos:Concept ;
+    skos:broader <7a77cdb7-1769-4cda-8f36-73298209a6fb> ;
     skos:inScheme <> ;
-    skos:notation "2.6.4" ;
-    skos:prefLabel "holen Text-Feedback ein und formulieren selbst auch Feedback zu Texten anderer, "@de .
+    skos:notation "5.1.2" ;
+    skos:prefLabel "Mündliche und schriftliche Kommunikation"@de .
 
-<02dbd693-9024-41ff-96c3-c06cc15e001c> a skos:Concept ;
-    skos:broader <f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> ;
+<0236ff05-6e8b-442d-af67-485cdb984e67> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
     skos:inScheme <> ;
-    skos:notation "3.3.1" ;
-    skos:prefLabel "ermitteln explizite oder durch einfaches Schließen zu gewinnende Textinformationen auf lokaler Ebene und beachten dabei auch sprachliche Mittel zur Sicherung des Textzusammenhangs,"@de .
+    skos:notation "1.3.4" ;
+    skos:prefLabel "nehmen in Gesprächen verschiedene Rollen (z. B. Diskutantin bzw. Diskutant) ein,"@de .
 
-<052b9224-8974-4b91-8449-a03c6f836f95> a skos:Concept ;
-    skos:broader <9f56a3b3-bba4-40b2-8ddf-80e92322a445> ;
-    skos:inScheme <> ;
-    skos:notation "3.2.1" ;
-    skos:prefLabel "orientieren sich in und zwischen Texten unterschiedlicher Komplexität und verschaffen sich auch mithilfe textueller Lesehilfen (u. a. Überschriften, Zwischenüberschriften, Absätze, Abbildungen, Illustrationen) einen Überblick: überfliegendes, selegierendes, navigierendes Lesen."@de .
-
-<0ccf57ff-3e61-4602-9bb8-32b5a55e57f9> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.1" ;
-    skos:prefLabel "beteiligen sich in vertrauten und unvertrauten Gesprächssituationen mit verständlichen, zuhörerbezogenen, themenbezogenen und konstruktiven Beiträgen,"@de .
-
-<0d6609d3-e022-437a-a873-974646b6e81d> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.3" ;
-    skos:prefLabel "formulieren in vertrauten und unvertrauten Situationen angemessen; gehen auf die Gesprächspartnerin bzw. den Gesprächspartner und die jeweilige Situation ein,"@de .
-
-<0ef4341b-93db-43ac-b3b0-6a672422fd1e> a skos:Concept ;
-    skos:broader <de7f8027-98c7-44cf-822c-d98088a1eea2> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.3" ;
-    skos:prefLabel "lesen komplexere Texte nach Vorbereitung sinngestaltend vor,"@de .
-
-<0f4ad397-6660-4e56-9b5a-e0975432f0da> a skos:Concept ;
-    skos:broader <6c91616f-b38c-499f-86dc-ff7a4ad41ed1> ;
-    skos:inScheme <> ;
-    skos:notation "4.6.2" ;
-    skos:prefLabel "unterscheiden digitale Angebote in Bezug auf ihre Funktion und Wirkung (u. a. informierend, unterhaltend, appellierend),"@de .
-
-<0f7e637e-7d64-4054-971f-567ab2a923e8> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.10" ;
-    skos:prefLabel "nutzen handlungs- und produktionsorientierte Verfahren, um ihre Deutung zu entwickeln und darzustellen und um Strukturen literarischer Texte nachzuvollziehen (z. B. innerer Monolog, Standbild, Parallelgedicht; Clip, Storyboard/ Fotostory),"@de .
-
-<11aeec21-8b4b-4fb8-a78c-edb2a6f0e909> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
+<054f659d-8456-4ffb-b025-56797be5ff3b> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
     skos:inScheme <> ;
     skos:notation "4.4.5" ;
     skos:prefLabel "vergleichen Texte in Hinblick auf Themen und Gestaltung und nehmen begründete Wertungen vor (auch intermedial, z. B. Buch und Film),"@de .
 
-<132c22a2-2e06-4804-993e-9e488b26feed> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
+<072a0f3b-5505-44af-aa76-36261f2c98c6> a skos:Concept ;
+    skos:broader <d9ec43c6-d42a-41f2-86ed-03d40b31fb36> ;
     skos:inScheme <> ;
-    skos:notation "2.4.7" ;
-    skos:prefLabel "planen Texte kooperativ und strukturieren diese: z. B. Textbaupläne,"@de .
+    skos:notation "3.4.2" ;
+    skos:prefLabel "lesen Texte organisierend (u. a. für das Leseziel wichtige Aussagen markieren, unbekannte Wörter unterstreichen und nachschlagen), elaborierend (u. a. Annahmen zur Textaussage formulieren, über den Text hinausdenken, assoziieren) und reflektierend (das Textverstehen prüfen, Verstehensschwierigkeiten erkennen und beheben sowie den Strategieeinsatz selbst reflektieren),"@de .
 
-<134ebcc8-53be-4668-83b9-cf42fec52ee8> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.1" ;
-    skos:prefLabel "kennen wort- und satzbezogene Rechtschreibstrategien und wenden diese an"@de .
-
-<1472139b-fc68-4542-a5e4-60831bbd9258> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.9" ;
-    skos:prefLabel "nutzen technische Möglichkeiten beim digitalen Kommunizieren in vertrauten und unvertrauten Situationen."@de .
-
-<16f2ae17-2c46-4d11-a986-754ec69bad0e> a skos:Concept ;
-    skos:broader <d821b3ec-f6d2-4b57-a3f8-42c63a2f1314> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.3" ;
-    skos:prefLabel "wählen aus grundlegenden kognitiven und metakognitiven Strategien aus, die sie vor, während und nach dem Zuhören einsetzen, z. B. die Erwartungshaltung zielorientiert steuern, Aufmerksamkeit steuern, Informationen sichern und zusammenfassen: Notizen, Protokoll."@de .
-
-<1c7d3b1a-4098-4560-ac2b-268b2d0393df> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.1" ;
-    skos:prefLabel "erschließen aus einem oder mehreren klar strukturierten Texten zielgerichtet relevante Informationen, ordnen, selegieren und vergleichen diese und prüfen ihren Sachgehalt,"@de .
-
-<1d3c9766-df9b-49c3-b6d9-2c471aa49c17> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.2" ;
-    skos:prefLabel "werten nichtlineare und multimodale Texte (Text-Bild-Bezüge) zielorientiert aus, z. B. um über ein Thema zu sprechen oder zu schreiben"@de .
-
-<1d8dd990-4939-4f4d-92a5-ab1b5b20a735> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.9" ;
-    skos:prefLabel "wenden Planungsstrategien (auch kooperativ) an und reflektieren sowohl ihren Planungsprozess als auch den Strategieeinsatz."@de .
-
-<1f61e90c-17a3-4f45-bf36-fd036ec63e6c> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.2" ;
-    skos:prefLabel "formulieren Texte auch für unbekannte und unterschiedliche Adressaten angemessen, "@de .
-
-<1f705cd0-81b3-4a18-a252-7d08a7e9578d> a skos:Concept ;
-    skos:broader <2601a2a4-1b3c-4b85-b45c-6d8cf476c805> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.3" ;
-    skos:prefLabel "gestalten Texte (handschriftlich und mithilfe digitaler Schreibwerkzeuge) übersichtlich und zielorientiert, bauen sie sinnvoll auf und strukturieren diese: z. B. Blattaufteilung, Seitenränder, Absatzstrukturen, Textformatierung und Layout."@de .
-
-<20eb6404-eb8d-4746-ae52-67c9e0299212> a skos:Concept ;
-    skos:broader <d850e44c-8966-4908-85fd-09f55c924fee> ;
+<0804040d-d24f-4971-8e41-e5c9f94d4c27> a skos:Concept ;
+    skos:broader <0e155d12-fd5c-4569-8e5b-c0db8ca06b63> ;
     skos:inScheme <> ;
     skos:notation "1.4.1" ;
     skos:prefLabel "leisten längere, auch freie Beiträge adressatenorientiert und mit Hilfe eines Stichwortzettels/einer Gliederung/von Notizen/eines Textes, z. B. Referat, Präsentation, Rede, Gedicht,"@de .
 
-<25a7fa34-d798-4c26-af6b-1c0dc90a7999> a skos:Concept ;
-    skos:broader <de7f8027-98c7-44cf-822c-d98088a1eea2> ;
+<0924ab1d-15e6-4e02-a987-81e843678980> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
     skos:inScheme <> ;
-    skos:notation "3.1.4" ;
-    skos:prefLabel "lesen in angemessenem Tempo."@de .
+    skos:notation "2.4.7" ;
+    skos:prefLabel "planen Texte kooperativ und strukturieren diese: z. B. Textbaupläne,"@de .
 
-<28eaa364-c4c6-4501-9f53-6c7c7474643a> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
+<0adad0cb-4a12-4b43-8993-2cd79cec1292> a skos:Concept ;
+    skos:broader <2740db2e-5e56-43fb-951f-209acb552316> ;
     skos:inScheme <> ;
-    skos:notation "1.1.6" ;
-    skos:prefLabel "berücksichtigen typische Wirkungen der Redeweise situations- und adressatengerecht: Lautstärke, Betonung, Sprechtempo, Pausen, Körpersprache (Gestik/Mimik/Körperhaltung),"@de .
+    skos:notation "2.1,1" ;
+    skos:prefLabel "schreiben Texte (handschriftlich leserlich und mithilfe digitaler Schreibwerkzeuge) in einem der Situation angemessenen Tempo, z. B. persönliche Notiz vs. handschriftlicher Brief,"@de .
 
-<2b4c25b0-7b46-456e-99b8-8bb01b9a81d4> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
+<11ea6537-81f9-435b-8e0a-e617921cf0f8> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
     skos:inScheme <> ;
-    skos:notation "2.2.4" ;
-    skos:prefLabel "schreiben Satzanfänge, Eigennamen und prototypische Kerne von Nominalgruppen groß,"@de .
+    skos:notation "4.4.2" ;
+    skos:prefLabel "nutzen wichtige Fachbegriffe bei der Erschließung (u. a. Autor, Erzähler, Erzählperspektive, Figur, Monolog, Dialog; Reim, Vers, Sprecher/lyrischer Sprecher; Kameraperspektive, Einstellungsgröße),"@de .
 
-<2ba23d4b-1335-4e1b-8112-74e0466ba2e4> a skos:Concept ;
-    skos:broader <de7f8027-98c7-44cf-822c-d98088a1eea2> ;
+<1391c930-6efc-4618-822f-5d15466058b8> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
     skos:inScheme <> ;
-    skos:notation "3.1.2" ;
-    skos:prefLabel "verfügen über eine sichere Worterkennung (bei selteneren Wörtern mit Selbstkorrektur),"@de .
+    skos:notation "4.1.8" ;
+    skos:prefLabel "nutzen Angaben zum Wirklichkeitsbezug von Texten als Rezeptionshinweise (z. B. Gattungs-/Genrebezeichnungen: Roman, Satire, Krimi, Biopic, Dokumentation, Doku-Drama),"@de .
 
-<2e2bfb3e-2726-4cc8-8c0c-13bb59c68de9> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
+<146dda73-1e6c-4d8a-92cf-5b3ba4c780bd> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
     skos:inScheme <> ;
-    skos:notation "1.1.8" ;
-    skos:prefLabel "geben in vertrauten und unvertrauten Situationen nach vorgegebenen Kriterien gezielt Feedback zu Redebeiträgen,"@de .
+    skos:notation "1.1.1" ;
+    skos:prefLabel "äußern sich verständlich und situationsadäquat auch in der gesprochenen Standardsprache,"@de .
 
-<2efa3c44-e8e8-4afc-8ba2-6986fc491859> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
+<15f80145-c1bc-4576-b701-3f4a343f9d2d> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
     skos:inScheme <> ;
-    skos:notation "2.5.10" ;
-    skos:prefLabel "kennen Formulierungsstrategien und wenden diese (auch kooperativ) an. Sie reflektieren ihren Strategieeinsatz."@de .
+    skos:notation "2.4.1" ;
+    skos:prefLabel "sammeln Ideen, ordnen Informationen und fertigen eine Gliederung an, z. B. numerische Gliederung, Cluster, Mindmap,"@de .
 
-<35091ada-011e-445d-83a4-731eadef442b> a skos:Concept ;
-    skos:broader <f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> ;
+<165d2fad-3aa1-41b7-bcd2-74a66ee7189d> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
     skos:inScheme <> ;
-    skos:notation "3.3.3" ;
-    skos:prefLabel "nutzen bei digitalen Texten Navigationsstrukturen (u. a. Hyperlinks) zur Gewinnung von Textinformationen,"@de .
+    skos:notation "1.1.9" ;
+    skos:prefLabel "nutzen technische Möglichkeiten beim digitalen Kommunizieren in vertrauten und unvertrauten Situationen."@de .
 
-<37075236-df10-4504-b9f2-13c27fd743ab> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
+<1aa7f23a-8ec3-41c1-9f40-2a388556e239> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
     skos:inScheme <> ;
-    skos:notation "4.1.2" ;
-    skos:prefLabel "unterscheiden epische, lyrische und dramatische Texte, insbesondere epische Kleinformen (z. B. Fabel, Kurzgeschichte), Erzählung, (Jugend-)Roman, Gedichte, Drama,"@de .
+    skos:notation "2.5.3" ;
+    skos:prefLabel "realisieren mit unterschiedlichen Textsorten grundlegende kommunikative und personale Schreibfunktionen:"@de .
 
-<381a24d2-c31f-4375-b3fe-c84f36ec5372> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
+<1ce64218-3015-45aa-99c2-40bd00299a81> a skos:Concept ;
+    skos:broader <2740db2e-5e56-43fb-951f-209acb552316> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.3" ;
+    skos:prefLabel "gestalten Texte (handschriftlich und mithilfe digitaler Schreibwerkzeuge) übersichtlich und zielorientiert, bauen sie sinnvoll auf und strukturieren diese: z. B. Blattaufteilung, Seitenränder, Absatzstrukturen, Textformatierung und Layout."@de .
+
+<216d8734-c503-4db0-a714-5c4c8c675b8f> a skos:Concept ;
+    skos:broader <7cbb764e-dfc5-4719-8b8b-b60ba3be0006> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.3" ;
+    skos:prefLabel "lesen komplexere Texte nach Vorbereitung sinngestaltend vor,"@de .
+
+<25f1cc8c-21a0-4174-8d71-98611fa415f1> a skos:Concept ;
+    skos:broader <0e155d12-fd5c-4569-8e5b-c0db8ca06b63> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.2" ;
+    skos:prefLabel "nutzen typische Werkzeuge für das Sprechen vor anderen, z. B. Tafel, Plakat, Moderationskarten, Präsentationssoftware, Whiteboard,"@de .
+
+<27511e65-71ee-4fce-8a18-4eb6735544ea> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
+    skos:inScheme <> ;
+    skos:notation "2.6.4" ;
+    skos:prefLabel "holen Text-Feedback ein und formulieren selbst auch Feedback zu Texten anderer, "@de .
+
+<28f6d8fe-8c96-49c7-8c30-ff36a301d95c> a skos:Concept ;
+    skos:broader <bdf3c3b2-db9f-4b2c-b31c-7eacdc4b8d7d> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.2" ;
+    skos:prefLabel "bewerten Rechercheergebnisse (insbes. Internet) im Hinblick auf ihre thematische Relevanz und Verlässlichkeit (Informationsangebote vergleichen, Quellenangaben und -qualität prüfen, Informationen zu Autorinnen und Autoren recherchieren, mögliche Textfunktionen beachten)."@de .
+
+<30472d31-413f-4470-9fa0-5c37feeebd70> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.4" ;
+    skos:prefLabel "stellen an einem Beispiel Zusammenhänge zwischen Text und Kontext her (insbes. Entstehungszeit, Leben des Autors/der Autorin),"@de .
+
+<3146885b-5afe-45bd-890f-35f11c000a0f> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.2" ;
+    skos:prefLabel "beachten gemeinsam entwickelte oder für öffentliche Kommunikation prototypische Gesprächsregeln; gestalten eine wertschätzende Gesprächsatmosphä¬re,"@de .
+
+<33efc62d-b154-4d24-858c-e680d2050cc5> a skos:Concept ;
+    skos:broader <f3daeec4-a9f9-4092-9fec-84169408201c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.2" ;
+    skos:prefLabel "stellen bei multimodalen Texten einfache Bezüge zwischen Text, Bild und Ton her,"@de .
+
+<35a1dd1f-ce4c-4a4b-9566-ec8cd4deccc5> a skos:Concept ;
+    skos:broader <0d121104-63bb-4f0b-8c3d-2ddc11f5029e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.1" ;
+    skos:prefLabel "können in vertrauten und unvertrauten Kommunikationssituationen"@de .
+
+<3632c5da-bf5a-4f2d-910e-32cde8f47ac2> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.1" ;
+    skos:prefLabel "erschließen aus einem oder mehreren klar strukturierten Texten zielgerichtet relevante Informationen, ordnen, selegieren und vergleichen diese und prüfen ihren Sachgehalt,"@de .
+
+<363e157b-1df9-4f51-9f24-6e1b903e9ca2> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.3" ;
+    skos:prefLabel "formulieren eigene Deutungen von Texten und belegen diese,"@de .
+
+<36946b4a-1a59-45ec-bb3d-9eb76d53c010> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
     skos:inScheme <> ;
     skos:notation "1.1.4" ;
     skos:prefLabel "nutzen ihre Vorbereitungen (z. B. Notizen) für die sach- und situationsgerechte Gestaltung vertrauter und unvertrauter Situationen, z. B. Bewerbungsgespräch, Diskussion, Präsentation,"@de .
 
-<384e9383-7a9c-4da8-8fb4-4238c963e231> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
+<399ec9f7-358b-47bb-be4f-397d9fca754b> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
     skos:inScheme <> ;
-    skos:notation "4.5.7" ;
-    skos:prefLabel "ermitteln an ausgewählten Beispielen die Wirkungsabsichten von Texten und beurteilen diese."@de .
+    skos:notation "4.5.6" ;
+    skos:prefLabel "beziehen an ausgewählten Beispielen Textaussagen auf eigene Welt- und Wertvorstellungen und überprüfen diese,"@de .
 
-<393a1aa8-a21b-400c-8408-b3e737952943> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
+<3b4b8e96-9433-4ac4-b49f-2d1f88963e63> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
     skos:inScheme <> ;
-    skos:notation "4.1.7" ;
-    skos:prefLabel "unterscheiden pragmatische Textsorten und deren zentrale Funktionen (u. a. Bericht, Nachricht, Feature, Reportage [informierend]; Anleitung, Erklärvideo [instruierend]; Schulordnung [regulierend]; Kommentar, Buchkritik [überzeugend, argumentierend]),"@de .
+    skos:notation "4.1.10" ;
+    skos:prefLabel "kennen typische Formen digitaler Textstrukturierung (u. a. Hyperlinks, multimodale Textgestaltung) und nutzen sie zielorientiert (u. a. bei Recherchen und Präsentationen)."@de .
 
-<3a60f44d-bd02-4714-adfc-59df94f29ceb> a skos:Concept ;
-    skos:broader <6c91616f-b38c-499f-86dc-ff7a4ad41ed1> ;
+<3d1c4db0-e299-4da0-a539-922cb27b198d> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
     skos:inScheme <> ;
-    skos:notation "4.6.4" ;
-    skos:prefLabel "untersuchen am Beispiel den Zusammenhang von digitalen Nutzerprofilen, Algorithmen, Gestaltung und Wirkung digitaler Angebote und bewerten ihn,"@de .
+    skos:notation "2.5.10" ;
+    skos:prefLabel "kennen Formulierungsstrategien und wenden diese (auch kooperativ) an. Sie reflektieren ihren Strategieeinsatz."@de .
 
-<3b60f662-d506-4dff-9e73-6eadffbfe536> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
+<411d9b56-1bef-4a23-b941-181be6621623> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.3" ;
+    skos:prefLabel "stellen Überlegungen zu den Adressaten (unbekannt, verschiedene), deren unterschiedlichem Vorwissen und ihren Lesezielen an,"@de .
+
+<429bbf90-1e33-495e-abc6-aa63556a21bb> a skos:Concept ;
+    skos:broader <d9ec43c6-d42a-41f2-86ed-03d40b31fb36> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.3" ;
+    skos:prefLabel "bereiten das Lesen nach (u. a. zentrale Textaussagen wiedergeben, wertende Einschätzung zum Text abgeben, anfängliche Erwartungen und Annahmen zur Textaussage prüfen und ggf. korrigieren, eigenen Wissenszuwachs prüfen)."@de .
+
+<4342c6e1-e99d-4e26-8c24-3677fc4ad952> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.2" ;
+    skos:prefLabel "verfügen über einen angemessenen Wortschatz,"@de .
+
+<4375cb6b-b53e-427e-b28a-89abf0f13990> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.8" ;
+    skos:prefLabel "nutzen die Möglichkeiten digitaler Schreibwerkzeuge zur Vorbereitung der Textproduktion, z. B. Anfertigen von Notizen und Skizzen, Anlegen von Stoffsammlungen, Exzerpieren aus digitalen Informationsressourcen,"@de .
+
+<44f38ce5-4984-4853-a178-c16dae9f9059> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.9" ;
+    skos:prefLabel "wenden Planungsstrategien (auch kooperativ) an und reflektieren sowohl ihren Planungsprozess als auch den Strategieeinsatz."@de .
+
+<4a41b650-628e-4060-a7c3-e72619a88b08> a skos:Concept ;
+    skos:broader <f3daeec4-a9f9-4092-9fec-84169408201c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.4" ;
+    skos:prefLabel "verknüpfen Textinformationen, ziehen auch unter Nutzung ihres Vorwissens Schlussfolgerungen und konstruieren ein Gesamtverständnis."@de .
+
+<4b13c631-ff78-462a-bbf0-ef1ae7744f68> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.4" ;
+    skos:prefLabel "nutzen unterschiedliche Schreibformen: kooperative (z. B. Schreibkonferenzen), produktive (z. B. Umschreiben, Weiterschreiben) und kreative (z. B. Schreiben zu Bildern),"@de .
+
+<5416ead0-95b1-4037-93ca-e6e56b2f76aa> a skos:Concept ;
+    skos:broader <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.4" ;
+    skos:prefLabel "Aussprache"@de .
+
+<542c22dd-bd45-4e94-8b53-c63bb53ffee1> a skos:Concept ;
+    skos:broader <0d121104-63bb-4f0b-8c3d-2ddc11f5029e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.2" ;
+    skos:prefLabel "hören in vertrauten und unvertrauten Situationen sinnverstehend zu,"@de .
+
+<5519ea21-3742-42fc-bcec-44596730daf5> a skos:Concept ;
+    skos:broader <2740db2e-5e56-43fb-951f-209acb552316> ;
+    skos:inScheme <> ;
+    skos:notation "2.1.1" ;
+    skos:prefLabel "schreiben Wörter, Wortgruppen und Sätze flüssig, d. h. schnell, sicher und korrekt (automatisiert), und formulieren ihre Gedanken weitgehend flüssig,"@de .
+
+<56375b21-7631-44da-8eff-494196c08067> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.6" ;
+    skos:prefLabel "nutzen Informationsquellen gezielt und angemessen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Newsportale, digitale Suchdienste und (digitale) Ressourcen zur deutschen Sprache,"@de .
+
+<5971fa26-8c16-4b5b-94bd-6b07ef633fdc> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.5" ;
+    skos:prefLabel "praktizieren ausgewählte Gesprächs- und Lernformen, z. B. literarische Gespräche, Rollenspiele, Vorstellungsgespräche, Diskussionen, videogestützte Gespräche, Interviews,"@de .
+
+<5a36f146-465a-4852-a6a6-2c3908c36cd3> a skos:Concept ;
+    skos:broader <6a39148b-dac3-4b88-92ab-27df4a23bcc4> ;
+    skos:inScheme <> ;
+    skos:notation "4.6.5" ;
+    skos:prefLabel "nutzen digitale Werkzeuge zielgerichtet und reflektiert für die Gestaltung eigener medialer Produkte, z. B. für Präsentationen."@de .
+
+<5adc7f23-5796-43a7-801b-839b655f24cc> a skos:Concept ;
+    skos:broader <ed076f4a-dbc9-428e-8c21-c5aa89112aa5> ;
+    skos:inScheme <> ;
+    skos:notation "3.2.1" ;
+    skos:prefLabel "orientieren sich in und zwischen Texten unterschiedlicher Komplexität und verschaffen sich auch mithilfe textueller Lesehilfen (u. a. Überschriften, Zwischenüberschriften, Absätze, Abbildungen, Illustrationen) einen Überblick: überfliegendes, selegierendes, navigierendes Lesen."@de .
+
+<5c2a9535-29a3-4bca-9412-300a1de41e48> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.3" ;
+    skos:prefLabel "unterscheiden Information und Wertung in Texten,"@de .
+
+<5c41ef50-a68d-49e4-bed6-bc3a883d25f4> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.9" ;
+    skos:prefLabel "tauschen sich mit anderen zu Text- bzw. Medienwahrnehmungen, -deutungen und -wertungen aus (u. a. literarisches Gespräch),"@de .
+
+<6212cdc9-2703-48e7-902e-ac8b35347066> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.3" ;
+    skos:prefLabel "kennen Merkmale medialer und szenischer Gestaltung (u. a. Musik, Geräusche, Farben, Perspektive, Animation, Bühnenbild) und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
+
+<6463a2b0-5c9b-4208-9411-6d30e8f78900> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.6" ;
+    skos:prefLabel "verfügen über Fehleraufmerksamkeit und nutzen Strategien zur Klärung orthografischer Fragen,"@de .
+
+<68c631fb-9471-4b25-a0cb-726b3f10fb2b> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
     skos:definition "Die Schülerinnen und Schüler beachten bei der Planung und Strukturierung, beim Formulieren und beim Überarbeiten von Texten allgemeine Textmerkmale, Adressaten, den Schreibanlass, Schreibfunktion und Textsorte, Formen des Schreibens und den Einsatz digitaler Schreibwerkzeuge, den Umgang mit Quellen beim Belegen und Zitieren und die Anwendung von Schreibstrategien."@de ;
     skos:inScheme <> ;
     skos:notation "2.3" ;
     skos:prefLabel "Texte verfassen"@de .
 
-<3c2ae2cc-e651-460f-b6a7-06b1b37fb863> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
+<6bb511f2-cf95-49fd-9c4b-3450c79cc349> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
     skos:inScheme <> ;
-    skos:notation "2.6.1" ;
-    skos:prefLabel "erkennen anhand vorgegebener Kriterienkataloge den Überarbeitungsbedarf von Texten, überlegen Schritte zur Textüberarbeitung und setzen diese um, "@de .
+    skos:notation "1.3.1" ;
+    skos:prefLabel "beteiligen sich in vertrauten und unvertrauten Gesprächssituationen mit verständlichen, zuhörerbezogenen, themenbezogenen und konstruktiven Beiträgen,"@de .
 
-<3d63eaeb-cb15-4954-a7fb-0d48c4312001> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.3" ;
-    skos:prefLabel "realisieren mit unterschiedlichen Textsorten grundlegende kommunikative und personale Schreibfunktionen:"@de .
-
-<3da0fa27-7e78-4845-a92a-f85f541c63e4> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.5" ;
-    skos:prefLabel "stellen an ausgewählten Beispielen Zusammenhänge zwischen Intentionen, Textmerkmalen, sprachlichen Gestaltungsmitteln und Wirkungen her,"@de .
-
-<3deda0c9-5360-4d99-bf92-eb4067e18f75> a skos:Concept ;
-    skos:broader <5e286271-4630-41da-8f62-97f3a366a2f9> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.4" ;
-    skos:prefLabel "Aussprache"@de .
-
-<3e5ef5ec-651e-47ce-a4ce-d7cf91d372c1> a skos:Concept ;
-    skos:broader <d850e44c-8966-4908-85fd-09f55c924fee> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.3" ;
-    skos:prefLabel "planen und gestalten typische Formen des Präsentierens, z. B. Standbild, Stegreif-Rede, Kurzreferat, Podcasts, Erklärvideos,"@de .
-
-<41bb5daf-c5f6-45b7-a691-d01642535954> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.8" ;
-    skos:prefLabel "nutzen die Möglichkeiten digitaler Schreibwerkzeuge zur Vorbereitung der Textproduktion, z. B. Anfertigen von Notizen und Skizzen, Anlegen von Stoffsammlungen, Exzerpieren aus digitalen Informationsressourcen,"@de .
-
-<4892df3b-47e5-4d07-94c9-d331884db944> a skos:Concept ;
-    skos:broader <d850e44c-8966-4908-85fd-09f55c924fee> ;
-    skos:inScheme <> ;
-    skos:notation "1.4.2" ;
-    skos:prefLabel "nutzen typische Werkzeuge für das Sprechen vor anderen, z. B. Tafel, Plakat, Moderationskarten, Präsentationssoftware, Whiteboard,"@de .
-
-<497bf7df-f7f2-4bed-bdc6-0391f029bb70> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.6" ;
-    skos:prefLabel "wenden allgemeine und für Gesprächs- und Lernformen spezifische Strategien an, z. B. Gespräche steuern (Diskussionen), zielführende Rückmeldungen geben (Feedback),"@de .
-
-<5408f428-63fd-4b16-80e7-0eabdaee8bc7> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.10" ;
-    skos:prefLabel "kennen typische Formen digitaler Textstrukturierung (u. a. Hyperlinks, multimodale Textgestaltung) und nutzen sie zielorientiert (u. a. bei Recherchen und Präsentationen)."@de .
-
-<586bbbb0-95c1-42bb-b4f3-3f9a910fd3b1> a skos:Concept ;
-    skos:broader <c5db6e31-91b8-4496-b586-be0fef236224> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.3" ;
-    skos:prefLabel "bereiten das Lesen nach (u. a. zentrale Textaussagen wiedergeben, wertende Einschätzung zum Text abgeben, anfängliche Erwartungen und Annahmen zur Textaussage prüfen und ggf. korrigieren, eigenen Wissenszuwachs prüfen)."@de .
-
-<58b969ed-0330-46f1-8927-8ce67d8910af> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
-    skos:inScheme <> ;
-    skos:notation "2.6.3" ;
-    skos:prefLabel "überprüfen eigene und fremde Texte kriteriengeleitet auf der Basis von Rückmeldungen und überarbeiten diese (auch kooperativ) im Hinblick auf:"@de .
-
-<593e08d3-222b-4407-a2f3-340bbdc52ec2> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.1" ;
-    skos:prefLabel "äußern sich verständlich und situationsadäquat auch in der gesprochenen Standardsprache,"@de .
-
-<5a9eab7a-587b-4f0c-9b21-3e364cbd5c90> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.1" ;
-    skos:prefLabel "kennen Werke bedeutender Autorinnen und Autoren und berichten über ausgewählte Texte und ihre Leseerfahrungen,"@de .
-
-<5b37b591-d9a4-41d4-bfae-fcfa2d4fd3f5> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
-    skos:inScheme <> ;
-    skos:notation "2.6.2" ;
-    skos:prefLabel "nutzen ausgewählte textsortenspezifische Kriterien für die Textüberprüfung und -überarbeitung,"@de .
-
-<5f009cec-8782-41a9-987e-df533da253d6> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.9" ;
-    skos:prefLabel "tauschen sich mit anderen zu Text- bzw. Medienwahrnehmungen, -deutungen und -wertungen aus (u. a. literarisches Gespräch),"@de .
-
-<60abbded-b8e7-4ee6-bc85-2f4641134f1d> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.2" ;
-    skos:prefLabel "verfügen über einen angemessenen Wortschatz,"@de .
-
-<6a36ffcb-50a2-49ab-9a5f-2eb389a522af> a skos:Concept ;
-    skos:broader <6c91616f-b38c-499f-86dc-ff7a4ad41ed1> ;
-    skos:inScheme <> ;
-    skos:notation "4.6.3" ;
-    skos:prefLabel "unterscheiden Nutzungsformen digitaler Formate und Umgebungen und stellen Zusammenhänge zwischen Intentionen, Gestaltung und Wirkung her,"@de .
-
-<6df9f5ab-9eaf-407e-a39b-5df7827682cf> a skos:Concept ;
-    skos:broader <6c91616f-b38c-499f-86dc-ff7a4ad41ed1> ;
-    skos:inScheme <> ;
-    skos:notation "4.6.1" ;
-    skos:prefLabel "kennen medienspezifische Gestaltungsmittel und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
-
-<6ed7f7d0-8c37-498d-94aa-1af45ac990dd> a skos:Concept ;
-    skos:broader <9755c33b-741a-4d70-879f-2780bf44460d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.1" ;
-    skos:prefLabel "nutzen unterschiedliche Informationsangebote und Recherchemöglichkeiten (z. B. Kritiken, Bestenlisten und andere Empfehlungen; Internet, Zeitschriften, Zeitungen, Hörfunk, Fernsehen, Bücherei),"@de .
-
-<71579d3a-f289-449b-9e72-b9e67438f8e8> a skos:Concept ;
-    skos:broader <5e286271-4630-41da-8f62-97f3a366a2f9> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.2" ;
-    skos:prefLabel "Texte und Gespräche"@de .
-
-<736a1378-9342-4886-897b-e256e60eafde> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.8" ;
-    skos:prefLabel "nutzen Angaben zum Wirklichkeitsbezug von Texten als Rezeptionshinweise (z. B. Gattungs-/Genrebezeichnungen: Roman, Satire, Krimi, Biopic, Dokumentation, Doku-Drama),"@de .
-
-<774a0c5d-170c-48d2-b549-2c55b4631acd> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.5" ;
-    skos:prefLabel "entwickeln gemäß der Schreibaufgabe und der Zeitvorgabe einen Schreibplan, entscheiden sich für die angemessene Textsorte und konzipieren einen ziel-, adressaten- und situationsbezogenen Text,"@de .
-
-<7be9ec6a-ad0c-441f-84ff-7419663d50fc> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.9" ;
-    skos:prefLabel "integrieren Textbelege und andere Quellen formal richtig in den eigenen Text (zitieren),"@de .
-
-<7e22f7f8-fbfe-4b4b-9f48-c511f61ff5ed> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.2" ;
-    skos:prefLabel "beachten gemeinsam entwickelte oder für öffentliche Kommunikation prototypische Gesprächsregeln; gestalten eine wertschätzende Gesprächsatmosphä¬re,"@de .
-
-<7eae6f3e-67ef-4cf8-b0cd-7558da67f434> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.4" ;
-    skos:prefLabel "nehmen in Gesprächen verschiedene Rollen (z. B. Diskutantin bzw. Diskutant) ein,"@de .
-
-<829b33ed-de47-49e4-b4a5-940388bb1bea> a skos:Concept ;
-    skos:broader <f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.2" ;
-    skos:prefLabel "stellen bei multimodalen Texten einfache Bezüge zwischen Text, Bild und Ton her,"@de .
-
-<834b3f8f-0db0-41be-9264-89f3d0101f74> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.11" ;
-    skos:prefLabel "gestalten Texte unterschiedlicher medialer Form szenisch,"@de .
-
-<834e5e19-0a5b-41bf-8fbe-ce9dfc28da43> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
-    skos:inScheme <> ;
-    skos:notation "2.6.5" ;
-    skos:prefLabel "nutzen bei der Textüberarbeitung digitale Schreibwerkzeuge (auch kooperativ), z. B. Umstellen und Modifizieren von Textbausteinen und Medienobjekten und reflektieren diese, "@de .
-
-<88834c4f-99ec-4d9b-b85a-a84e10a4e6e9> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.6" ;
-    skos:prefLabel "unterscheiden zentrale Textmuster (Erzählen, Berichten, Beschreiben, Argumentieren),"@de .
-
-<8a76a654-92e3-4a59-a603-9ccfa7910fd4> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.5" ;
-    skos:prefLabel "kennen häufig verwendete sprachliche Gestaltungsmittel (u. a. Wortwahl, Wiederholung, sprachliche Bilder, Vergleich) und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
-
-<8b22bf7d-8049-4e24-bf66-4880e59403ab> a skos:Concept ;
-    skos:broader <2601a2a4-1b3c-4b85-b45c-6d8cf476c805> ;
-    skos:inScheme <> ;
-    skos:notation "2.1,1" ;
-    skos:prefLabel "schreiben Texte (handschriftlich leserlich und mithilfe digitaler Schreibwerkzeuge) in einem der Situation angemessenen Tempo, z. B. persönliche Notiz vs. handschriftlicher Brief,"@de .
-
-<8b7ebf82-b43f-438c-be21-31f2998e6500> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.5" ;
-    skos:prefLabel "bauen Redebeiträge in vertrauten und unvertrauten Situationen für andere nachvollziehbar und sinnvoll auf,"@de .
-
-<8c711fb9-ea4e-440c-807e-c50592ee48d2> a skos:Concept ;
-    skos:broader <de7f8027-98c7-44cf-822c-d98088a1eea2> ;
-    skos:inScheme <> ;
-    skos:notation "3.1.1" ;
-    skos:prefLabel "nutzen die schriftsprachlichen Informationen (u. a. Silbe, Morphem, Komma, Punkt, Fragezeichen, Großschreibung) beim Lesen,"@de .
-
-<8f8e349c-8871-4858-936b-3db99d8c5348> a skos:Concept ;
-    skos:broader <d821b3ec-f6d2-4b57-a3f8-42c63a2f1314> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.1" ;
-    skos:prefLabel "können in vertrauten und unvertrauten Kommunikationssituationen"@de .
-
-<8ff0673c-1e36-452e-89b0-25e6d163a47f> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.7" ;
-    skos:prefLabel "wählen geeignete (multimodale) Medien mit Unterstützung sinnvoll aus und setzen diese gezielt ein, um den Inhalt und die Wirkung eigener Sprechbeiträge zu unterstützen,"@de .
-
-<90096d65-43b2-4f4c-a710-9009bbd6880c> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.4" ;
-    skos:prefLabel "klären entsprechend dem Schreibziel die Schreibabsicht, Schreibsituation und Textfunktion,"@de .
-
-<93363df6-a115-4193-8840-e63389f2676d> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.6" ;
-    skos:prefLabel "vergleichen Handlungen und Handlungsmotive von Figuren anhand ausgewählter Kriterien mit vertrauten Handlungen und Handlungsmotiven und nehmen begründete Wertungen vor,"@de .
-
-<97f6f5fa-d1a1-4cb6-8d8b-df0a3075a6b2> a skos:Concept ;
-    skos:broader <c5db6e31-91b8-4496-b586-be0fef236224> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.1" ;
-    skos:prefLabel "bereiten das Lesen vor (u. a. Leseziel formulieren, Vorwissen aktivieren, Erwartungen an den Text formulieren, nach Möglichkeit die Textsorte klären), "@de .
-
-<a0dd78f5-28c3-4b99-8c66-e028ed5756f4> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.2" ;
-    skos:prefLabel "sammeln sprachliche und gestalterische Mittel: Wörter und Wortfelder, Formulierungen,"@de .
-
-<a21b9187-9c23-4cfa-ba13-5a4e3848f777> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.8" ;
-    skos:prefLabel "überprüfen und korrigieren Texte auf orthografische Richtigkeit."@de .
-
-<a2b16c43-eff0-4783-8753-668af2fc93be> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.6" ;
-    skos:prefLabel "beziehen an ausgewählten Beispielen Textaussagen auf eigene Welt- und Wertvorstellungen und überprüfen diese,"@de .
-
-<a303b286-34d1-471e-a7fd-f3b788e0ad14> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.12" ;
-    skos:prefLabel "tragen literarische Texte (z. B. Gedicht, Erzählung, Szene) nach Vorbereitung sinngestaltend vor."@de .
-
-<a42213ee-3aca-435e-81a8-4e90c5002164> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.4" ;
-    skos:prefLabel "unterscheiden informierende, erzählende und appellierende Elemente in Texten,"@de .
-
-<a9a615c4-3601-419d-a94a-858a04790c7f> a skos:Concept ;
-    skos:broader <d821b3ec-f6d2-4b57-a3f8-42c63a2f1314> ;
-    skos:inScheme <> ;
-    skos:notation "1.2.2" ;
-    skos:prefLabel "hören in vertrauten und unvertrauten Situationen sinnverstehend zu,"@de .
-
-<ab5a32ac-8900-416b-9e22-1cdfc9da44d2> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.4" ;
-    skos:prefLabel "formulieren Wertungen von Texten und begründen sie,"@de .
-
-<ab64b472-02f2-4dd7-9d56-f54077346024> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.5" ;
-    skos:prefLabel "kennen und nutzen die Interpunktionszeichen: Punkt, Komma, Fragezeichen, Ausrufezeichen, Anführungszeichen, Semikolon, Doppelpunkt, Auslassungspunkte, Gedankenstrich, Klammern,"@de .
-
-<ab7406de-9390-438e-a79d-6fe5ac35a2ad> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.9" ;
-    skos:prefLabel "nutzen typische auditive und audiovisuelle Medien für persönliche oder schulische Zwecke bedarfsgerecht (z. B. Hörspiel, Lesung, Hörbuch, Podcast, Wissenssendung, Erklärvideo, Tutorial, Webinar),"@de .
-
-<abf98f13-0939-4be2-a021-c1e20ba56cf7> a skos:Concept ;
-    skos:broader <14ef51a3-4c71-42e0-a428-c8ec83a5c349> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.2" ;
-    skos:prefLabel "Mündliche und schriftliche Kommunikation"@de .
-
-<aff7942f-0705-46ce-a33b-a923507802ed> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.2" ;
-    skos:prefLabel "schreiben Kernwörter richtig (Inhalts- und Funktionswörter)"@de .
-
-<b3a4bd97-0670-4234-8a90-1a6dca6d59fd> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.6" ;
-    skos:prefLabel "verfügen über Fehleraufmerksamkeit und nutzen Strategien zur Klärung orthografischer Fragen,"@de .
-
-<b5c4e779-d1ff-4410-bdfc-e0c3a04572d2> a skos:Concept ;
-    skos:broader <5e286271-4630-41da-8f62-97f3a366a2f9> ;
-    skos:inScheme <> ;
-    skos:notation "5.2.3" ;
-    skos:prefLabel "Rechtschreibung"@de .
-
-<b9f5d5d1-7649-48fe-9b76-d8dc39a24ec2> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.1" ;
-    skos:prefLabel "formulieren Texte gedanklich geordnet, verständlich, kohärenzstiftend und strukturiert sowie sprachlich angemessen,"@de .
-
-<c2671319-9d8a-4551-a476-94ae0a1797a8> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.7" ;
-    skos:prefLabel "sprechen über das sprachliche und literarische Lernen sowie über Lernerfahrungen: geben Beobachtungen wieder, beschreiben Sachverhalte, geben Erklärungen und Begründungen, reflektieren."@de .
-
-<c3d94e20-c4bc-4fb4-a1a6-84a39f9ca1e7> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.3" ;
-    skos:prefLabel "schreiben häufige Wörter, auch häufige Fachbegriffe und Fremdwörter, richtig,"@de .
-
-<c4807e4c-0cd1-415e-a186-7ae56bb2d314> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.8" ;
-    skos:prefLabel "formulieren eigene Positionen und begründen diese"@de .
-
-<ca97be5c-46b6-429d-8306-29d2da20ed64> a skos:Concept ;
-    skos:broader <b0a486d4-2e30-449b-9080-3f1847a466fc> ;
-    skos:inScheme <> ;
-    skos:notation "1.1.3" ;
-    skos:prefLabel "kommunizieren mit Blick auf Adressaten und Ziele situationsangemessen:"@de .
-
-<cb4bd3da-5be7-4fd4-8f1b-85177995f357> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.3" ;
-    skos:prefLabel "stellen Überlegungen zu den Adressaten (unbekannt, verschiedene), deren unterschiedlichem Vorwissen und ihren Lesezielen an,"@de .
-
-<d34f356a-2a47-4027-ac06-be6fe75f1963> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.7" ;
-    skos:prefLabel "nehmen Gedanken und deutlich markierte Positionen anderer in den eigenen Text auf und positionieren sich zu ihnen,"@de .
-
-<d6d83940-0354-4dfc-a570-e7966502b219> a skos:Concept ;
-    skos:broader <2601a2a4-1b3c-4b85-b45c-6d8cf476c805> ;
-    skos:inScheme <> ;
-    skos:notation "2.1.1" ;
-    skos:prefLabel "schreiben Wörter, Wortgruppen und Sätze flüssig, d. h. schnell, sicher und korrekt (automatisiert), und formulieren ihre Gedanken weitgehend flüssig,"@de .
-
-<d6ee1a62-05b4-4858-a9d5-9244c81a9991> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.1" ;
-    skos:prefLabel "nutzen zentrale Informationen zu Figuren, zu Raum- und Zeitdarstellung, Handlungs- und Konfliktverlauf sowie Atmosphäre zum Aufbau von Textverständnis und -deutung,"@de .
-
-<d842e5bd-6eaa-46e5-b5aa-c4fd3ecf9bad> a skos:Concept ;
-    skos:broader <c5db6e31-91b8-4496-b586-be0fef236224> ;
-    skos:inScheme <> ;
-    skos:notation "3.4.2" ;
-    skos:prefLabel "lesen Texte organisierend (u. a. für das Leseziel wichtige Aussagen markieren, unbekannte Wörter unterstreichen und nachschlagen), elaborierend (u. a. Annahmen zur Textaussage formulieren, über den Text hinausdenken, assoziieren) und reflektierend (das Textverstehen prüfen, Verstehensschwierigkeiten erkennen und beheben sowie den Strategieeinsatz selbst reflektieren),"@de .
-
-<dbf764b5-a718-450e-a529-cafe57dfd83b> a skos:Concept ;
-    skos:broader <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:inScheme <> ;
-    skos:notation "2.2.7" ;
-    skos:prefLabel "nutzen Rechtschreibhilfen (Wörterbuch und digitale Rechtschreibhilfe),"@de .
-
-<dcdd4437-4539-4ec7-a06f-7a65be0078e6> a skos:Concept ;
-    skos:broader <6c91616f-b38c-499f-86dc-ff7a4ad41ed1> ;
-    skos:inScheme <> ;
-    skos:notation "4.6.5" ;
-    skos:prefLabel "nutzen digitale Werkzeuge zielgerichtet und reflektiert für die Gestaltung eigener medialer Produkte, z. B. für Präsentationen."@de .
-
-<ddda1aed-1f45-4999-b405-5fd7173f0ce0> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.5" ;
-    skos:prefLabel "kennen und nutzen die Möglichkeiten digitaler Schreibwerkzeuge zur Formulierung und (formalen) Gestaltung von Texten, z. B. Schrift‐ und Textformatierung, Arrangieren und Re‐Arrangieren von Textbausteinen und Medienobjekten,"@de .
-
-<deaa7766-c14c-47cf-add4-c66cfaf04501> a skos:Concept ;
-    skos:broader <f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> ;
-    skos:inScheme <> ;
-    skos:notation "3.3.4" ;
-    skos:prefLabel "verknüpfen Textinformationen, ziehen auch unter Nutzung ihres Vorwissens Schlussfolgerungen und konstruieren ein Gesamtverständnis."@de .
-
-<df9c3146-fc07-4db1-b3aa-5745de0eeb3b> a skos:Concept ;
-    skos:broader <14ef51a3-4c71-42e0-a428-c8ec83a5c349> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.1" ;
-    skos:prefLabel "Sprachliche Verständigung als Form des Handelns"@de .
-
-<e083c2bf-3907-4212-8d7a-97b274190172> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.3" ;
-    skos:prefLabel "formulieren eigene Deutungen von Texten und belegen diese,"@de .
-
-<e4415b96-242e-4e64-9438-78615985633e> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.4" ;
-    skos:prefLabel "stellen an einem Beispiel Zusammenhänge zwischen Text und Kontext her (insbes. Entstehungszeit, Leben des Autors/der Autorin),"@de .
-
-<e5ac40c3-d79e-4f7e-860e-08929141750c> a skos:Concept ;
-    skos:broader <72f16d34-94df-4fa6-abbc-c203a5de2ee4> ;
-    skos:inScheme <> ;
-    skos:notation "2.5.4" ;
-    skos:prefLabel "nutzen unterschiedliche Schreibformen: kooperative (z. B. Schreibkonferenzen), produktive (z. B. Umschreiben, Weiterschreiben) und kreative (z. B. Schreiben zu Bildern),"@de .
-
-<e5e5c322-f91b-4452-8ed2-274098b96b30> a skos:Concept ;
-    skos:broader <9755c33b-741a-4d70-879f-2780bf44460d> ;
-    skos:inScheme <> ;
-    skos:notation "4.2.2" ;
-    skos:prefLabel "bewerten Rechercheergebnisse (insbes. Internet) im Hinblick auf ihre thematische Relevanz und Verlässlichkeit (Informationsangebote vergleichen, Quellenangaben und -qualität prüfen, Informationen zu Autorinnen und Autoren recherchieren, mögliche Textfunktionen beachten)."@de .
-
-<e7adf321-488b-4a9d-8197-86b714736098> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
-    skos:inScheme <> ;
-    skos:notation "4.4.2" ;
-    skos:prefLabel "nutzen wichtige Fachbegriffe bei der Erschließung (u. a. Autor, Erzähler, Erzählperspektive, Figur, Monolog, Dialog; Reim, Vers, Sprecher/lyrischer Sprecher; Kameraperspektive, Einstellungsgröße),"@de .
-
-<e8429753-2188-4bad-804e-0682532c8630> a skos:Concept ;
-    skos:broader <758fbdfa-e9d7-4427-a5b2-8af989b5f880> ;
-    skos:inScheme <> ;
-    skos:notation "2.6.6" ;
-    skos:prefLabel "kennen sowohl allgemeine als auch textsortenspezifische Überarbeitungsstrategien und wenden diese (auch kooperativ) an. Sie reflektieren sowohl ihren Überarbeitungsprozess als auch den Strategieeinsatz."@de .
-
-<ed50992b-6845-4796-947c-a2ab797bf12c> a skos:Concept ;
-    skos:broader <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:inScheme <> ;
-    skos:notation "4.5.3" ;
-    skos:prefLabel "unterscheiden Information und Wertung in Texten,"@de .
-
-<ed5115ba-ef78-4471-b62a-061f6873c45e> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
-    skos:inScheme <> ;
-    skos:notation "2.4.1" ;
-    skos:prefLabel "sammeln Ideen, ordnen Informationen und fertigen eine Gliederung an, z. B. numerische Gliederung, Cluster, Mindmap,"@de .
-
-<ee2c26f2-4159-436c-8105-69ffe65b8187> a skos:Concept ;
-    skos:broader <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:inScheme <> ;
-    skos:notation "1.3.5" ;
-    skos:prefLabel "praktizieren ausgewählte Gesprächs- und Lernformen, z. B. literarische Gespräche, Rollenspiele, Vorstellungsgespräche, Diskussionen, videogestützte Gespräche, Interviews,"@de .
-
-<f1c0a7ee-0b8d-4cea-88fa-c972790c2103> a skos:Concept ;
-    skos:broader <14ef51a3-4c71-42e0-a428-c8ec83a5c349> ;
-    skos:inScheme <> ;
-    skos:notation "5.1.3" ;
-    skos:prefLabel "Ausprägungen und Bedingungen sprachlicher Variation und Vielfalt"@de .
-
-<f385a6a5-0080-4752-b2fe-166d6ae01ce3> a skos:Concept ;
-    skos:broader <d448b9d2-22cf-4414-8bc5-a19ae52fea75> ;
-    skos:inScheme <> ;
-    skos:notation "4.1.3" ;
-    skos:prefLabel "kennen Merkmale medialer und szenischer Gestaltung (u. a. Musik, Geräusche, Farben, Perspektive, Animation, Bühnenbild) und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
-
-<f7dacb38-cfd7-4c32-b797-f6780b6ec7b1> a skos:Concept ;
-    skos:broader <e89d83c8-fca3-44aa-bca4-80394744bce5> ;
+<6e172f20-ec48-4a57-af64-76282ed07447> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
     skos:inScheme <> ;
     skos:notation "4.4.7" ;
     skos:prefLabel "überprüfen eigene Annahmen zu Textaussagen und vorgegebene Deutungshypothesen,"@de .
 
-<f7f41c03-b97b-40d7-8d65-20524ddc879c> a skos:Concept ;
-    skos:broader <5e286271-4630-41da-8f62-97f3a366a2f9> ;
+<6e4fede6-0b48-4bf3-92e3-f85537595047> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
     skos:inScheme <> ;
-    skos:notation "5.2.1" ;
-    skos:prefLabel "Wörter und Sätze"@de .
+    skos:notation "2.6.3" ;
+    skos:prefLabel "überprüfen eigene und fremde Texte kriteriengeleitet auf der Basis von Rückmeldungen und überarbeiten diese (auch kooperativ) im Hinblick auf:"@de .
 
-<f9157b5a-0be6-4e2c-b610-1790e2c9f21c> a skos:Concept ;
-    skos:broader <5e286271-4630-41da-8f62-97f3a366a2f9> ;
+<76ac296c-e959-48c0-953c-f037d648e822> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
     skos:inScheme <> ;
-    skos:notation "5.2.5" ;
-    skos:prefLabel "Ressourcen zur deutschen Sprache"@de .
+    skos:notation "1.1.6" ;
+    skos:prefLabel "berücksichtigen typische Wirkungen der Redeweise situations- und adressatengerecht: Lautstärke, Betonung, Sprechtempo, Pausen, Körpersprache (Gestik/Mimik/Körperhaltung),"@de .
 
-<f9c90865-c75d-4190-9852-224aef15f265> a skos:Concept ;
-    skos:broader <d850e44c-8966-4908-85fd-09f55c924fee> ;
+<77a9e9a8-2ef4-4382-9ff1-feea4fa0e400> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.11" ;
+    skos:prefLabel "gestalten Texte unterschiedlicher medialer Form szenisch,"@de .
+
+<77dc314b-814a-4c37-b515-b4c8d1bcf90c> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.2" ;
+    skos:prefLabel "werten nichtlineare und multimodale Texte (Text-Bild-Bezüge) zielorientiert aus, z. B. um über ein Thema zu sprechen oder zu schreiben"@de .
+
+<7c17524e-e67b-42a9-b2c1-bffb93be17c8> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.2" ;
+    skos:prefLabel "schreiben Kernwörter richtig (Inhalts- und Funktionswörter)"@de .
+
+<81c8dd30-adf6-443b-8c36-864b6b73286f> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
+    skos:inScheme <> ;
+    skos:notation "2.6.6" ;
+    skos:prefLabel "kennen sowohl allgemeine als auch textsortenspezifische Überarbeitungsstrategien und wenden diese (auch kooperativ) an. Sie reflektieren sowohl ihren Überarbeitungsprozess als auch den Strategieeinsatz."@de .
+
+<823ad5ca-4af1-492c-9b1e-4ab9b1fb316f> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.3" ;
+    skos:prefLabel "kommunizieren mit Blick auf Adressaten und Ziele situationsangemessen:"@de .
+
+<83ec7a57-27b7-4956-b557-7b576db9be6a> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
+    skos:inScheme <> ;
+    skos:notation "2.6.5" ;
+    skos:prefLabel "nutzen bei der Textüberarbeitung digitale Schreibwerkzeuge (auch kooperativ), z. B. Umstellen und Modifizieren von Textbausteinen und Medienobjekten und reflektieren diese, "@de .
+
+<881c2541-3985-495d-81f6-a19cdb59c7f7> a skos:Concept ;
+    skos:broader <7cbb764e-dfc5-4719-8b8b-b60ba3be0006> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.2" ;
+    skos:prefLabel "verfügen über eine sichere Worterkennung (bei selteneren Wörtern mit Selbstkorrektur),"@de .
+
+<8858c804-cc2d-416e-b117-433bfa132eff> a skos:Concept ;
+    skos:broader <7a77cdb7-1769-4cda-8f36-73298209a6fb> ;
+    skos:inScheme <> ;
+    skos:notation "5.1.3" ;
+    skos:prefLabel "Ausprägungen und Bedingungen sprachlicher Variation und Vielfalt"@de .
+
+<88a7ce4e-2e00-4767-b943-bcdea0cecd12> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.7" ;
+    skos:prefLabel "ermitteln an ausgewählten Beispielen die Wirkungsabsichten von Texten und beurteilen diese."@de .
+
+<899d07ac-60fa-4cf0-a8bd-ba68fe8018d7> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.4" ;
+    skos:prefLabel "klären entsprechend dem Schreibziel die Schreibabsicht, Schreibsituation und Textfunktion,"@de .
+
+<90da55c4-d9db-42ab-b6d1-af8c07c6def9> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.5" ;
+    skos:prefLabel "bauen Redebeiträge in vertrauten und unvertrauten Situationen für andere nachvollziehbar und sinnvoll auf,"@de .
+
+<9223d066-b94e-4b57-81c3-41a9d467f64c> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.9" ;
+    skos:prefLabel "integrieren Textbelege und andere Quellen formal richtig in den eigenen Text (zitieren),"@de .
+
+<963c480c-eedf-4d42-acb0-01ff9b834786> a skos:Concept ;
+    skos:broader <6a39148b-dac3-4b88-92ab-27df4a23bcc4> ;
+    skos:inScheme <> ;
+    skos:notation "4.6.4" ;
+    skos:prefLabel "untersuchen am Beispiel den Zusammenhang von digitalen Nutzerprofilen, Algorithmen, Gestaltung und Wirkung digitaler Angebote und bewerten ihn,"@de .
+
+<97138f57-e137-4650-879b-7e81210ef7a1> a skos:Concept ;
+    skos:broader <f3daeec4-a9f9-4092-9fec-84169408201c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.3" ;
+    skos:prefLabel "nutzen bei digitalen Texten Navigationsstrukturen (u. a. Hyperlinks) zur Gewinnung von Textinformationen,"@de .
+
+<9a6d178a-b324-4b8a-b770-64267b3ca23d> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.8" ;
+    skos:prefLabel "formulieren eigene Positionen und begründen diese"@de .
+
+<9e86e181-633b-44b7-92de-c89bb21859ab> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.7" ;
+    skos:prefLabel "wählen geeignete (multimodale) Medien mit Unterstützung sinnvoll aus und setzen diese gezielt ein, um den Inhalt und die Wirkung eigener Sprechbeiträge zu unterstützen,"@de .
+
+<a3b9d6ee-64d7-4bc7-b0ed-a35a94d4395a> a skos:Concept ;
+    skos:broader <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.3" ;
+    skos:prefLabel "Rechtschreibung"@de .
+
+<a7994ce2-b427-446a-8794-e39f43ea6aee> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.1" ;
+    skos:prefLabel "formulieren Texte gedanklich geordnet, verständlich, kohärenzstiftend und strukturiert sowie sprachlich angemessen,"@de .
+
+<a939f328-c106-44a7-add2-fe130908ff5c> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.5" ;
+    skos:prefLabel "kennen und nutzen die Möglichkeiten digitaler Schreibwerkzeuge zur Formulierung und (formalen) Gestaltung von Texten, z. B. Schrift‐ und Textformatierung, Arrangieren und Re‐Arrangieren von Textbausteinen und Medienobjekten,"@de .
+
+<aa362434-d775-45d9-84f8-9460607aa766> a skos:Concept ;
+    skos:broader <0e155d12-fd5c-4569-8e5b-c0db8ca06b63> ;
     skos:inScheme <> ;
     skos:notation "1.4.4" ;
     skos:prefLabel "planen und gestalten Formen des szenischen Sprechens und Spielens, z. B. szenische Lesung, Szene, Aufführung, Hörspiel, Videoclip, Standbild, Improvisation."@de .
 
-<fd78940d-10aa-4b7c-882e-16f7f6220ed8> a skos:Concept ;
-    skos:broader <812cd850-5f18-4593-8287-656949f90e83> ;
+<aaa3f993-3185-4d74-8310-f2e924fe0c4f> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
     skos:inScheme <> ;
-    skos:notation "2.4.6" ;
-    skos:prefLabel "nutzen Informationsquellen gezielt und angemessen, insbesondere Bibliotheken, Nachschlagewerke, Zeitungen, Newsportale, digitale Suchdienste und (digitale) Ressourcen zur deutschen Sprache,"@de .
+    skos:notation "4.5.5" ;
+    skos:prefLabel "stellen an ausgewählten Beispielen Zusammenhänge zwischen Intentionen, Textmerkmalen, sprachlichen Gestaltungsmitteln und Wirkungen her,"@de .
 
-<9f56a3b3-bba4-40b2-8ddf-80e92322a445> a skos:Concept ;
-    skos:broader <c22e63df-39d1-4b94-997e-8ad32bad60e9> ;
+<ab9e8fc2-b27b-445b-ad60-62cc01116c9f> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.2" ;
+    skos:prefLabel "sammeln sprachliche und gestalterische Mittel: Wörter und Wortfelder, Formulierungen,"@de .
+
+<abcd08f2-d7bd-480c-a31f-0cc21244a2b4> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.5" ;
+    skos:prefLabel "kennen häufig verwendete sprachliche Gestaltungsmittel (u. a. Wortwahl, Wiederholung, sprachliche Bilder, Vergleich) und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
+
+<ae199b65-1294-41bd-892c-afd046892cb8> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
+    skos:inScheme <> ;
+    skos:notation "2.6.2" ;
+    skos:prefLabel "nutzen ausgewählte textsortenspezifische Kriterien für die Textüberprüfung und -überarbeitung,"@de .
+
+<b05afa6c-76cf-4f7d-9c7e-6bda08b4d214> a skos:Concept ;
+    skos:broader <0d121104-63bb-4f0b-8c3d-2ddc11f5029e> ;
+    skos:inScheme <> ;
+    skos:notation "1.2.3" ;
+    skos:prefLabel "wählen aus grundlegenden kognitiven und metakognitiven Strategien aus, die sie vor, während und nach dem Zuhören einsetzen, z. B. die Erwartungshaltung zielorientiert steuern, Aufmerksamkeit steuern, Informationen sichern und zusammenfassen: Notizen, Protokoll."@de .
+
+<b06c88d1-99c1-4103-93db-e1a0f4a8c87e> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.3" ;
+    skos:prefLabel "formulieren in vertrauten und unvertrauten Situationen angemessen; gehen auf die Gesprächspartnerin bzw. den Gesprächspartner und die jeweilige Situation ein,"@de .
+
+<b410a352-07bb-4a43-bdf1-d12f5fdecd7b> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.7" ;
+    skos:prefLabel "sprechen über das sprachliche und literarische Lernen sowie über Lernerfahrungen: geben Beobachtungen wieder, beschreiben Sachverhalte, geben Erklärungen und Begründungen, reflektieren."@de .
+
+<b7b78d38-7692-41f4-8d37-4b2f7c382b00> a skos:Concept ;
+    skos:broader <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.5" ;
+    skos:prefLabel "Ressourcen zur deutschen Sprache"@de .
+
+<b8e1d870-23f8-4659-9e42-a677a0eee537> a skos:Concept ;
+    skos:broader <0e155d12-fd5c-4569-8e5b-c0db8ca06b63> ;
+    skos:inScheme <> ;
+    skos:notation "1.4.3" ;
+    skos:prefLabel "planen und gestalten typische Formen des Präsentierens, z. B. Standbild, Stegreif-Rede, Kurzreferat, Podcasts, Erklärvideos,"@de .
+
+<b90b6f04-fafc-4f5a-b693-033328c97ed9> a skos:Concept ;
+    skos:broader <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:inScheme <> ;
+    skos:notation "2.4.5" ;
+    skos:prefLabel "entwickeln gemäß der Schreibaufgabe und der Zeitvorgabe einen Schreibplan, entscheiden sich für die angemessene Textsorte und konzipieren einen ziel-, adressaten- und situationsbezogenen Text,"@de .
+
+<baa52189-a79c-467b-b415-035d460206ca> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.6" ;
+    skos:prefLabel "unterscheiden zentrale Textmuster (Erzählen, Berichten, Beschreiben, Argumentieren),"@de .
+
+<baa9f8c0-2ef6-4712-9f99-f4487283998d> a skos:Concept ;
+    skos:broader <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.2" ;
+    skos:prefLabel "Texte und Gespräche"@de .
+
+<bab65b07-068e-428e-aa8e-741ce7469b3d> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.4" ;
+    skos:prefLabel "schreiben Satzanfänge, Eigennamen und prototypische Kerne von Nominalgruppen groß,"@de .
+
+<bb88b298-d2fc-41e8-9961-8c79d54170ad> a skos:Concept ;
+    skos:broader <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:inScheme <> ;
+    skos:notation "5.2.1" ;
+    skos:prefLabel "Wörter und Sätze"@de .
+
+<bbf12978-b15b-4fe6-9b32-0bda7efcab36> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.12" ;
+    skos:prefLabel "tragen literarische Texte (z. B. Gedicht, Erzählung, Szene) nach Vorbereitung sinngestaltend vor."@de .
+
+<bdd0198f-ce03-4847-be44-2e68d9858e80> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.9" ;
+    skos:prefLabel "nutzen typische auditive und audiovisuelle Medien für persönliche oder schulische Zwecke bedarfsgerecht (z. B. Hörspiel, Lesung, Hörbuch, Podcast, Wissenssendung, Erklärvideo, Tutorial, Webinar),"@de .
+
+<c53f973f-ae5b-4736-ad0f-5c66efaedec6> a skos:Concept ;
+    skos:broader <6a39148b-dac3-4b88-92ab-27df4a23bcc4> ;
+    skos:inScheme <> ;
+    skos:notation "4.6.3" ;
+    skos:prefLabel "unterscheiden Nutzungsformen digitaler Formate und Umgebungen und stellen Zusammenhänge zwischen Intentionen, Gestaltung und Wirkung her,"@de .
+
+<c60aa3b3-a91d-4256-9824-56d36b61e3bc> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.4" ;
+    skos:prefLabel "formulieren Wertungen von Texten und begründen sie,"@de .
+
+<c88d8d8c-033e-45d2-badc-6c7c9759fe0b> a skos:Concept ;
+    skos:broader <f3daeec4-a9f9-4092-9fec-84169408201c> ;
+    skos:inScheme <> ;
+    skos:notation "3.3.1" ;
+    skos:prefLabel "ermitteln explizite oder durch einfaches Schließen zu gewinnende Textinformationen auf lokaler Ebene und beachten dabei auch sprachliche Mittel zur Sicherung des Textzusammenhangs,"@de .
+
+<c8f48655-2ffe-4032-b91e-a6a3eb20afb2> a skos:Concept ;
+    skos:broader <d9ec43c6-d42a-41f2-86ed-03d40b31fb36> ;
+    skos:inScheme <> ;
+    skos:notation "3.4.1" ;
+    skos:prefLabel "bereiten das Lesen vor (u. a. Leseziel formulieren, Vorwissen aktivieren, Erwartungen an den Text formulieren, nach Möglichkeit die Textsorte klären), "@de .
+
+<c90a1261-a1fb-4485-a05b-0c2627ed7a48> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.1" ;
+    skos:prefLabel "nutzen zentrale Informationen zu Figuren, zu Raum- und Zeitdarstellung, Handlungs- und Konfliktverlauf sowie Atmosphäre zum Aufbau von Textverständnis und -deutung,"@de .
+
+<cb32312c-a1f7-40fa-a8c6-85128d9b785d> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.8" ;
+    skos:prefLabel "überprüfen und korrigieren Texte auf orthografische Richtigkeit."@de .
+
+<cd569e5b-300d-453b-ba8b-4c184aad9099> a skos:Concept ;
+    skos:broader <6a39148b-dac3-4b88-92ab-27df4a23bcc4> ;
+    skos:inScheme <> ;
+    skos:notation "4.6.1" ;
+    skos:prefLabel "kennen medienspezifische Gestaltungsmittel und beschreiben an ausgewählten Beispielen ihre Wirkung,"@de .
+
+<d00b3481-031a-4492-8e3f-5a27a03a63ce> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.7" ;
+    skos:prefLabel "nehmen Gedanken und deutlich markierte Positionen anderer in den eigenen Text auf und positionieren sich zu ihnen,"@de .
+
+<d4f38ecf-9ecc-4fc1-8e8e-15d46c8bed9d> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.1" ;
+    skos:prefLabel "kennen wort- und satzbezogene Rechtschreibstrategien und wenden diese an"@de .
+
+<d7b3f602-fd29-4c99-b6ec-4bfbcbba67a8> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
+    skos:definition "Die Schülerinnen und Schüler erschließen sich Texte unterschiedlicher medialer Form – auch als Grundlage für die mündliche und schriftliche Anschlusskommunikation."@de ;
+    skos:inScheme <> ;
+    skos:notation "4.3" ;
+    skos:prefLabel "Texte in unterschiedlicher medialer Form erschließen und nutzen"@de .
+
+<d889c1ff-e5a2-487d-935c-8c347a3a3997> a skos:Concept ;
+    skos:broader <d958bbd6-b3d0-4469-b150-bea15d8af9d3> ;
+    skos:inScheme <> ;
+    skos:notation "4.5.4" ;
+    skos:prefLabel "unterscheiden informierende, erzählende und appellierende Elemente in Texten,"@de .
+
+<da15f11e-70f5-4259-84d3-be94f4132fca> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.6" ;
+    skos:prefLabel "vergleichen Handlungen und Handlungsmotive von Figuren anhand ausgewählter Kriterien mit vertrauten Handlungen und Handlungsmotiven und nehmen begründete Wertungen vor,"@de .
+
+<da765ffd-9bf4-4ed8-9b2b-84279bcd9f81> a skos:Concept ;
+    skos:broader <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:inScheme <> ;
+    skos:notation "1.1.8" ;
+    skos:prefLabel "geben in vertrauten und unvertrauten Situationen nach vorgegebenen Kriterien gezielt Feedback zu Redebeiträgen,"@de .
+
+<deb323ed-9c8c-41fb-8248-b803fbe88bdf> a skos:Concept ;
+    skos:broader <da690f42-0b14-4717-9070-6e8c40bf2c0a> ;
+    skos:inScheme <> ;
+    skos:notation "2.5.2" ;
+    skos:prefLabel "formulieren Texte auch für unbekannte und unterschiedliche Adressaten angemessen, "@de .
+
+<deea343b-67ac-479f-b2e9-575a0314d0cf> a skos:Concept ;
+    skos:broader <7cbb764e-dfc5-4719-8b8b-b60ba3be0006> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.4" ;
+    skos:prefLabel "lesen in angemessenem Tempo."@de .
+
+<df91e814-dbd9-4ee2-b92c-0e3b86e21ae8> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.3" ;
+    skos:prefLabel "schreiben häufige Wörter, auch häufige Fachbegriffe und Fremdwörter, richtig,"@de .
+
+<e0272109-9210-4cbf-b0bc-fc03aab06bed> a skos:Concept ;
+    skos:broader <8bf42c90-34e3-4338-ad80-97682a6038a9> ;
+    skos:inScheme <> ;
+    skos:notation "2.6.1" ;
+    skos:prefLabel "erkennen anhand vorgegebener Kriterienkataloge den Überarbeitungsbedarf von Texten, überlegen Schritte zur Textüberarbeitung und setzen diese um, "@de .
+
+<e2fd1b9e-cc73-4fd8-80aa-c5c85d9d5de2> a skos:Concept ;
+    skos:broader <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> ;
+    skos:inScheme <> ;
+    skos:notation "1.3.6" ;
+    skos:prefLabel "wenden allgemeine und für Gesprächs- und Lernformen spezifische Strategien an, z. B. Gespräche steuern (Diskussionen), zielführende Rückmeldungen geben (Feedback),"@de .
+
+<e84a567b-db8b-45c9-80bc-b56be4701ef3> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.1" ;
+    skos:prefLabel "kennen Werke bedeutender Autorinnen und Autoren und berichten über ausgewählte Texte und ihre Leseerfahrungen,"@de .
+
+<e9413b06-7bba-43ff-9f7b-4e7b42be37db> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.7" ;
+    skos:prefLabel "unterscheiden pragmatische Textsorten und deren zentrale Funktionen (u. a. Bericht, Nachricht, Feature, Reportage [informierend]; Anleitung, Erklärvideo [instruierend]; Schulordnung [regulierend]; Kommentar, Buchkritik [überzeugend, argumentierend]),"@de .
+
+<e9f3bc04-f9bd-4b74-afa2-44d8fa849e9b> a skos:Concept ;
+    skos:broader <6a39148b-dac3-4b88-92ab-27df4a23bcc4> ;
+    skos:inScheme <> ;
+    skos:notation "4.6.2" ;
+    skos:prefLabel "unterscheiden digitale Angebote in Bezug auf ihre Funktion und Wirkung (u. a. informierend, unterhaltend, appellierend),"@de .
+
+<edfb72a7-6d75-412c-878a-869e5e45bf1c> a skos:Concept ;
+    skos:broader <33832aa4-9de3-44b4-811e-c1ef0d451b23> ;
+    skos:inScheme <> ;
+    skos:notation "2.2.7" ;
+    skos:prefLabel "nutzen Rechtschreibhilfen (Wörterbuch und digitale Rechtschreibhilfe),"@de .
+
+<ef5bb713-d028-43f5-862b-78d396db25dd> a skos:Concept ;
+    skos:broader <1bb0a5bb-5119-4c4c-a704-38c091113e88> ;
+    skos:inScheme <> ;
+    skos:notation "4.1.2" ;
+    skos:prefLabel "unterscheiden epische, lyrische und dramatische Texte, insbesondere epische Kleinformen (z. B. Fabel, Kurzgeschichte), Erzählung, (Jugend-)Roman, Gedichte, Drama,"@de .
+
+<f16b5b97-bb11-4ec1-a7ff-2769b8642bda> a skos:Concept ;
+    skos:broader <7a77cdb7-1769-4cda-8f36-73298209a6fb> ;
+    skos:inScheme <> ;
+    skos:notation "5.1.1" ;
+    skos:prefLabel "Sprachliche Verständigung als Form des Handelns"@de .
+
+<f830124d-c835-42e9-8e13-5e4522a9ca7e> a skos:Concept ;
+    skos:broader <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:inScheme <> ;
+    skos:notation "4.4.10" ;
+    skos:prefLabel "nutzen handlungs- und produktionsorientierte Verfahren, um ihre Deutung zu entwickeln und darzustellen und um Strukturen literarischer Texte nachzuvollziehen (z. B. innerer Monolog, Standbild, Parallelgedicht; Clip, Storyboard/ Fotostory),"@de .
+
+<fef63c0d-89dd-4f4a-b1f8-fd295376ea24> a skos:Concept ;
+    skos:broader <bdf3c3b2-db9f-4b2c-b31c-7eacdc4b8d7d> ;
+    skos:inScheme <> ;
+    skos:notation "4.2.1" ;
+    skos:prefLabel "nutzen unterschiedliche Informationsangebote und Recherchemöglichkeiten (z. B. Kritiken, Bestenlisten und andere Empfehlungen; Internet, Zeitschriften, Zeitungen, Hörfunk, Fernsehen, Bücherei),"@de .
+
+<ffea5ab6-37fd-4b3b-bdb5-01a2f51286ae> a skos:Concept ;
+    skos:broader <7cbb764e-dfc5-4719-8b8b-b60ba3be0006> ;
+    skos:inScheme <> ;
+    skos:notation "3.1.1" ;
+    skos:prefLabel "nutzen die schriftsprachlichen Informationen (u. a. Silbe, Morphem, Komma, Punkt, Fragezeichen, Großschreibung) beim Lesen,"@de .
+
+<ed076f4a-dbc9-428e-8c21-c5aa89112aa5> a skos:Concept ;
+    skos:broader <43bf03f7-907d-445f-9a75-a060f5688be3> ;
     skos:definition "Die Schülerinnen und Schüler verfügen über Techniken zur Orientierung in und zwischen Texten."@de ;
     skos:inScheme <> ;
-    skos:narrower <052b9224-8974-4b91-8449-a03c6f836f95> ;
+    skos:narrower <5adc7f23-5796-43a7-801b-839b655f24cc> ;
     skos:notation "3.2" ;
     skos:prefLabel "Lesefertigkeiten: Über Lesetechniken verfügen"@de .
 
-<19b84cb0-ea63-4286-a934-a4adbe8cb724> a skos:Concept ;
-    skos:broader <stdESA/> ;
-    skos:definition "Sprache und Sprachgebrauch bilden den zentralen Gegenstand des Deutschunterrichts. Die Schülerinnen und Schüler sind sich der Leistungen von Sprache als Kommunikationsmedium sowie der Bedingungen ihrer situations-, adressaten- und intentionsangemessenen Verwendung bewusst. Sie untersuchen an ausgewählten Beispielen das komplexe Erscheinungsbild sprachlichen Handelns – des eigenen und fremden – sowie die Bedingungen, unter denen es zustande kommt. Sie verfügen über Grundkenntnisse zum Sprachsystem. Die erworbenen Einsichten tragen zur Vertiefung ihrer Sprachbewusstheit und zur eigenen Sprachentwicklung bei. Im Sinne von „Sprache im Gebrauch“ setzen sie sich dabei mit dem umfassenden Bereich menschlicher Verständigung, sprachlicher Variation und Mehrsprachigkeit auseinander. Sie untersuchen Texte, Gespräche und Formen digitaler Kommunikation unter funktionalen Aspekten und in Hinblick auf die Angemessenheit ihrer sprachlichen Gestaltung. Im Sinne von „Sprache als System“ nehmen sie strukturelle Erscheinungen (Sätze, Wörter) wie auch deren Leistungen in den Blick und nutzen diese für die Produktion und Überarbeitung eigener Texte sowie für die Planung und Gestaltung von Gesprächsbeiträgen und Präsentationen. Sie erweitern ihre Fähigkeiten zur Nutzung von Fachbegriffen für die systematische Beschreibung sprachlicher Formen und ihrer Funktionen sowie für die Analyse von Texten, Gesprächen und Formen digitaler Kommunikation. Für die Entwicklung orthographischen Wissens, das für das Lesen und Schreiben grundlegend ist, liefert die Reflexion über Sprache relevante sprachsystematische Grundlagen; für das Sprechen und Zuhören liefert sie die Kenntnis der Konventionen der gesprochenen Standardsprache, für die Auseinandersetzung mit Texten und Medien wichtige Kategorien der Sprachbetrachtung. Die Schülerinnen und Schüler können ihr Wissen über Sprache im eigenen Sprachhandeln nutzen: In den mündlichen Äußerungen beachten die Schülerinnen und Schüler wichtige Regeln der Aussprache, in den schriftlichen die der Orthografie und Zeichensetzung. Sie wählen das jeweils angemessene sprachliche Register. Der Aufbau von Kompetenzen für den reflektierten Umgang mit digitalen Ressourcen zur deutschen Sprache bildet eine wichtige Grundlage für die Weiterentwicklung der Sprachbewusstheit, für die Produktion, Erschließung und Analyse von Texten und Medien und für die Planung mündlicher Präsentationen."@de ;
-    skos:inScheme <> ;
-    skos:narrower <14ef51a3-4c71-42e0-a428-c8ec83a5c349>,
-        <5e286271-4630-41da-8f62-97f3a366a2f9> ;
-    skos:notation "5" ;
-    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de .
-
-<9755c33b-741a-4d70-879f-2780bf44460d> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
+<bdf3c3b2-db9f-4b2c-b31c-7eacdc4b8d7d> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
     skos:definition "Die Schülerinnen und Schüler nutzen das Medienangebot zur Entwicklung und Pflege eigener Interessen, zur Erweiterung ihrer Wissensbasis und Urteilsfähigkeit und als Anlass zum Austausch mit anderen."@de ;
     skos:inScheme <> ;
-    skos:narrower <6ed7f7d0-8c37-498d-94aa-1af45ac990dd>,
-        <e5e5c322-f91b-4452-8ed2-274098b96b30> ;
+    skos:narrower <28f6d8fe-8c96-49c7-8c30-ff36a301d95c>,
+        <fef63c0d-89dd-4f4a-b1f8-fd295376ea24> ;
     skos:notation "4.2" ;
     skos:prefLabel "Sich im Medienangebot orientieren"@de .
 
-<14ef51a3-4c71-42e0-a428-c8ec83a5c349> a skos:Concept ;
-    skos:broader <19b84cb0-ea63-4286-a934-a4adbe8cb724> ;
-    skos:definition "Die Schülerinnen und Schüler untersuchen sprachliche Verständigung und sprachliche Variation in Texten, Gesprächen und Formen digitaler Kommunikation und beschreiben Unterschiede zwischen Mündlichkeit und Schriftlichkeit. Sie nutzen ihre Einsichten für das eigene Sprachhandeln."@de ;
-    skos:inScheme <> ;
-    skos:narrower <abf98f13-0939-4be2-a021-c1e20ba56cf7>,
-        <df9c3146-fc07-4db1-b3aa-5745de0eeb3b>,
-        <f1c0a7ee-0b8d-4cea-88fa-c972790c2103> ;
-    skos:notation "5.1" ;
-    skos:prefLabel "Sprachliche Verständigung und sprachliche Vielfalt untersuchen "@de .
-
-<2601a2a4-1b3c-4b85-b45c-6d8cf476c805> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
-    skos:definition "Die Schülerinnen und Schüler schreiben flüssig; eigene Gedanken formulieren sie weitgehend flüssig. Sie schreiben in einer leserlichen Handschrift und mithilfe digitaler Schreibwerkzeuge in einem der Situation angemessenen Tempo und gestalten ihre Texte zweckmäßig und übersichtlich sowie sinnvoll strukturiert."@de ;
-    skos:inScheme <> ;
-    skos:narrower <1f705cd0-81b3-4a18-a252-7d08a7e9578d>,
-        <8b22bf7d-8049-4e24-bf66-4880e59403ab>,
-        <d6d83940-0354-4dfc-a570-e7966502b219> ;
-    skos:notation "2.1" ;
-    skos:prefLabel "Über Schreibfertigkeiten verfügen"@de .
-
-<c5db6e31-91b8-4496-b586-be0fef236224> a skos:Concept ;
-    skos:broader <c22e63df-39d1-4b94-997e-8ad32bad60e9> ;
-    skos:definition "Die Schülerinnen und Schüler verfügen über kognitive und metakognitive Lesestrategien zum Einsatz vor dem Lesen, während des Lesens und nach dem Lesen. Sie können die Strategien beim Lesen eines unbekannten oder schwierigen Textes oder beim vergleichenden Lesen mehrerer Texte den Anforderungen der Texte und dem Leseziel entsprechend auswählen und ausführen. Sie reflektieren sowohl ihr Verstehen als auch ihren Einsatz von Lesestrategien."@de ;
-    skos:inScheme <> ;
-    skos:narrower <586bbbb0-95c1-42bb-b4f3-3f9a910fd3b1>,
-        <97f6f5fa-d1a1-4cb6-8d8b-df0a3075a6b2>,
-        <d842e5bd-6eaa-46e5-b5aa-c4fd3ecf9bad> ;
-    skos:notation "3.4" ;
-    skos:prefLabel "Lesefähigkeiten: Über Strategien zum Leseverstehen verfügen"@de .
-
-<d821b3ec-f6d2-4b57-a3f8-42c63a2f1314> a skos:Concept ;
-    skos:broader <93d74630-624b-43c7-a122-8eb8bb9d56b3> ;
+<0d121104-63bb-4f0b-8c3d-2ddc11f5029e> a skos:Concept ;
+    skos:broader <3d265e55-3a73-420b-b471-ddb717de445c> ;
     skos:definition "Die Schülerinnen und Schüler können die Aufmerksamkeit auf die Beiträge anderer richten und ihr Verstehen in vertrauten und unvertrauten Situationen zum Ausdruck bringen."@de ;
     skos:inScheme <> ;
-    skos:narrower <16f2ae17-2c46-4d11-a986-754ec69bad0e>,
-        <8f8e349c-8871-4858-936b-3db99d8c5348>,
-        <a9a615c4-3601-419d-a94a-858a04790c7f> ;
+    skos:narrower <35a1dd1f-ce4c-4a4b-9566-ec8cd4deccc5>,
+        <542c22dd-bd45-4e94-8b53-c63bb53ffee1>,
+        <b05afa6c-76cf-4f7d-9c7e-6bda08b4d214> ;
     skos:notation "1.2" ;
     skos:prefLabel "Verstehend zuhören"@de .
 
-<93d74630-624b-43c7-a122-8eb8bb9d56b3> a skos:Concept ;
-    skos:broader <stdESA/> ;
-    skos:definition "Die gesprochene Sprache ist ein zentrales Mittel schulischer und außerschulischer Kommunikation. Dabei ist gesprochene Sprache immer auch soziales Handeln. Die Schülerinnen und Schüler lernen, wichtige kommunikative Situationen in persönlichen, schulischen und öffentlichen Zusammenhängen angemessen und adressatengerecht zu bewältigen. Dabei nutzen sie sprachliche Werkzeuge auch im digitalen Kontext. Die Schülerinnen und Schüler verfügen über eine demokratische Gesprächskultur, die von aufmerksamem Zuhören und respektvollem Gesprächsverhalten geprägt ist. Sie nutzen die Standardsprache. Sie achten auf gelingende Kommunikation und damit auch auf die Wirkung ihres sprachlichen Handelns. Sie führen und moderieren Gespräche und realisieren kommunikative Funktionen wie erzählen, informieren und argumentieren. Sie diskutieren, gestalten ihr Sprechen bewusst und leisten konstruktive gesprochene Beiträge zum Unterricht. Im Kompetenzbereich „Sprechen und Zuhören“ sind die kommunikativen Anforderungen von besonderer Bedeutung. In den Kernbereichen Zu anderen sprechen und Verstehend zuhören sind deswegen grundlegende und situationsübergreifende Standards des Vor anderen Sprechens und Mit anderen Sprechens dargestellt. Der Kernbereich Mit anderen sprechen bezieht sich dementsprechend durchweg auf Situationen, in denen Schülerinnen und Schüler aufeinander Bezug nehmen. Der Kernbereich Vor anderen sprechen umfasst Standards zu solchen Situationen, in denen die Schülerinnen und Schüler eine Zeit lang das Rederecht wahrnehmen, z. B. Präsentationen, Reden. Die Beiträge können dabei jeweils vorbereitet oder unvorbereitet sein. In kommunikativen Situationen können die Schülerinnen und Schüler mit Blick auf die kommunikativen Ziele und die Gesprächspartnerinnen und -partner bewusst das Register wechseln, z. B. Standardsprache, Alltagssprache, Bildungssprache, Fachsprache."@de ;
+<2740db2e-5e56-43fb-951f-209acb552316> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
+    skos:definition "Die Schülerinnen und Schüler schreiben flüssig; eigene Gedanken formulieren sie weitgehend flüssig. Sie schreiben in einer leserlichen Handschrift und mithilfe digitaler Schreibwerkzeuge in einem der Situation angemessenen Tempo und gestalten ihre Texte zweckmäßig und übersichtlich sowie sinnvoll strukturiert."@de ;
     skos:inScheme <> ;
-    skos:narrower <b0a486d4-2e30-449b-9080-3f1847a466fc>,
-        <d821b3ec-f6d2-4b57-a3f8-42c63a2f1314>,
-        <d850e44c-8966-4908-85fd-09f55c924fee>,
-        <e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> ;
-    skos:notation "1" ;
-    skos:prefLabel "Sprechen und Zuhören"@de .
+    skos:narrower <0adad0cb-4a12-4b43-8993-2cd79cec1292>,
+        <1ce64218-3015-45aa-99c2-40bd00299a81>,
+        <5519ea21-3742-42fc-bcec-44596730daf5> ;
+    skos:notation "2.1" ;
+    skos:prefLabel "Über Schreibfertigkeiten verfügen"@de .
 
-<c22e63df-39d1-4b94-997e-8ad32bad60e9> a skos:Concept ;
-    skos:broader <stdESA/> ;
-    skos:definition "Lesen ist ein eigenaktiver Prozess der Sinnkonstruktion. Lesen zu können bildet sowohl die Basis dafür, eigenständig zum Vergnügen zu lesen und Leseinteresse und Lesefreude zu entwickeln, als auch dafür, aus Büchern und Texten zu lernen und sich mit ihrer Hilfe mit der Welt auseinanderzusetzen. Der Leseerwerb ist mit der Grundschulzeit nicht abgeschlossen, vielmehr müssen die Lesefertigkeiten und Lesefähigkeiten in der Sekundarstufe I weiterentwickelt und differenziert werden. Ziel ist es, dass die Schülerinnen und Schüler über grundlegende Verfahren für das Verstehen von literarischen Texten sowie Sach- und Gebrauchstexten, auch in digitaler und multimodaler Form, verfügen. Sie entnehmen selbstständig Informationen aus Texten, verknüpfen sie miteinander und verbinden sie mit ihrem Vorwissen. Dafür nutzen sie verschiedene Lesetechniken und setzen Lesestrategien gezielt ein. Die Förderung des Lesens zielt stets auch darauf, das Leseinteresse und die Lesebereitschaft der Schülerinnen und Schüler zu entwickeln und zu pflegen."@de ;
+<4fda9d89-2b58-4dab-b6b4-ca353b7b3877> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Sprache und Sprachgebrauch bilden den zentralen Gegenstand des Deutschunterrichts. Die Schülerinnen und Schüler sind sich der Leistungen von Sprache als Kommunikationsmedium sowie der Bedingungen ihrer situations-, adressaten- und intentionsangemessenen Verwendung bewusst. Sie untersuchen an ausgewählten Beispielen das komplexe Erscheinungsbild sprachlichen Handelns – des eigenen und fremden – sowie die Bedingungen, unter denen es zustande kommt. Sie verfügen über Grundkenntnisse zum Sprachsystem. Die erworbenen Einsichten tragen zur Vertiefung ihrer Sprachbewusstheit und zur eigenen Sprachentwicklung bei. Im Sinne von „Sprache im Gebrauch“ setzen sie sich dabei mit dem umfassenden Bereich menschlicher Verständigung, sprachlicher Variation und Mehrsprachigkeit auseinander. Sie untersuchen Texte, Gespräche und Formen digitaler Kommunikation unter funktionalen Aspekten und in Hinblick auf die Angemessenheit ihrer sprachlichen Gestaltung. Im Sinne von „Sprache als System“ nehmen sie strukturelle Erscheinungen (Sätze, Wörter) wie auch deren Leistungen in den Blick und nutzen diese für die Produktion und Überarbeitung eigener Texte sowie für die Planung und Gestaltung von Gesprächsbeiträgen und Präsentationen. Sie erweitern ihre Fähigkeiten zur Nutzung von Fachbegriffen für die systematische Beschreibung sprachlicher Formen und ihrer Funktionen sowie für die Analyse von Texten, Gesprächen und Formen digitaler Kommunikation. Für die Entwicklung orthographischen Wissens, das für das Lesen und Schreiben grundlegend ist, liefert die Reflexion über Sprache relevante sprachsystematische Grundlagen; für das Sprechen und Zuhören liefert sie die Kenntnis der Konventionen der gesprochenen Standardsprache, für die Auseinandersetzung mit Texten und Medien wichtige Kategorien der Sprachbetrachtung. Die Schülerinnen und Schüler können ihr Wissen über Sprache im eigenen Sprachhandeln nutzen: In den mündlichen Äußerungen beachten die Schülerinnen und Schüler wichtige Regeln der Aussprache, in den schriftlichen die der Orthografie und Zeichensetzung. Sie wählen das jeweils angemessene sprachliche Register. Der Aufbau von Kompetenzen für den reflektierten Umgang mit digitalen Ressourcen zur deutschen Sprache bildet eine wichtige Grundlage für die Weiterentwicklung der Sprachbewusstheit, für die Produktion, Erschließung und Analyse von Texten und Medien und für die Planung mündlicher Präsentationen."@de ;
     skos:inScheme <> ;
-    skos:narrower <9f56a3b3-bba4-40b2-8ddf-80e92322a445>,
-        <c5db6e31-91b8-4496-b586-be0fef236224>,
-        <de7f8027-98c7-44cf-822c-d98088a1eea2>,
-        <f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> ;
-    skos:notation "3" ;
-    skos:prefLabel "Lesen"@de .
+    skos:narrower <7a77cdb7-1769-4cda-8f36-73298209a6fb>,
+        <f586de02-3532-4c0a-95ff-eb018247ce78> ;
+    skos:notation "5" ;
+    skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de ;
+    skos:topConceptOf <> .
 
-<d850e44c-8966-4908-85fd-09f55c924fee> a skos:Concept ;
-    skos:broader <93d74630-624b-43c7-a122-8eb8bb9d56b3> ;
+<7a77cdb7-1769-4cda-8f36-73298209a6fb> a skos:Concept ;
+    skos:broader <4fda9d89-2b58-4dab-b6b4-ca353b7b3877> ;
+    skos:definition "Die Schülerinnen und Schüler untersuchen sprachliche Verständigung und sprachliche Variation in Texten, Gesprächen und Formen digitaler Kommunikation und beschreiben Unterschiede zwischen Mündlichkeit und Schriftlichkeit. Sie nutzen ihre Einsichten für das eigene Sprachhandeln."@de ;
+    skos:inScheme <> ;
+    skos:narrower <0205933e-fde1-420d-8cc9-7d2a91704146>,
+        <8858c804-cc2d-416e-b117-433bfa132eff>,
+        <f16b5b97-bb11-4ec1-a7ff-2769b8642bda> ;
+    skos:notation "5.1" ;
+    skos:prefLabel "Sprachliche Verständigung und sprachliche Vielfalt untersuchen "@de .
+
+<d9ec43c6-d42a-41f2-86ed-03d40b31fb36> a skos:Concept ;
+    skos:broader <43bf03f7-907d-445f-9a75-a060f5688be3> ;
+    skos:definition "Die Schülerinnen und Schüler verfügen über kognitive und metakognitive Lesestrategien zum Einsatz vor dem Lesen, während des Lesens und nach dem Lesen. Sie können die Strategien beim Lesen eines unbekannten oder schwierigen Textes oder beim vergleichenden Lesen mehrerer Texte den Anforderungen der Texte und dem Leseziel entsprechend auswählen und ausführen. Sie reflektieren sowohl ihr Verstehen als auch ihren Einsatz von Lesestrategien."@de ;
+    skos:inScheme <> ;
+    skos:narrower <072a0f3b-5505-44af-aa76-36261f2c98c6>,
+        <429bbf90-1e33-495e-abc6-aa63556a21bb>,
+        <c8f48655-2ffe-4032-b91e-a6a3eb20afb2> ;
+    skos:notation "3.4" ;
+    skos:prefLabel "Lesefähigkeiten: Über Strategien zum Leseverstehen verfügen"@de .
+
+<0e155d12-fd5c-4569-8e5b-c0db8ca06b63> a skos:Concept ;
+    skos:broader <3d265e55-3a73-420b-b471-ddb717de445c> ;
     skos:definition "Die Schülerinnen und Schüler können über einen begrenzten Zeitraum (vorbereitet und durch Medien gestützt) sprechen und eigene kommunikative Ziele verfolgen (Ausdrucks-, Darstellungs- und Appellfunktion)."@de ;
     skos:inScheme <> ;
-    skos:narrower <20eb6404-eb8d-4746-ae52-67c9e0299212>,
-        <3e5ef5ec-651e-47ce-a4ce-d7cf91d372c1>,
-        <4892df3b-47e5-4d07-94c9-d331884db944>,
-        <f9c90865-c75d-4190-9852-224aef15f265> ;
+    skos:narrower <0804040d-d24f-4971-8e41-e5c9f94d4c27>,
+        <25f1cc8c-21a0-4174-8d71-98611fa415f1>,
+        <aa362434-d775-45d9-84f8-9460607aa766>,
+        <b8e1d870-23f8-4659-9e42-a677a0eee537> ;
     skos:notation "1.4" ;
     skos:prefLabel "Vor anderen sprechen"@de .
 
-<de7f8027-98c7-44cf-822c-d98088a1eea2> a skos:Concept ;
-    skos:broader <c22e63df-39d1-4b94-997e-8ad32bad60e9> ;
+<7cbb764e-dfc5-4719-8b8b-b60ba3be0006> a skos:Concept ;
+    skos:broader <43bf03f7-907d-445f-9a75-a060f5688be3> ;
     skos:definition "Die Schülerinnen und Schüler lesen leise und laut, automatisiert, genau, sinngestaltend und zügig."@de ;
     skos:inScheme <> ;
-    skos:narrower <0ef4341b-93db-43ac-b3b0-6a672422fd1e>,
-        <25a7fa34-d798-4c26-af6b-1c0dc90a7999>,
-        <2ba23d4b-1335-4e1b-8112-74e0466ba2e4>,
-        <8c711fb9-ea4e-440c-807e-c50592ee48d2> ;
+    skos:narrower <216d8734-c503-4db0-a714-5c4c8c675b8f>,
+        <881c2541-3985-495d-81f6-a19cdb59c7f7>,
+        <deea343b-67ac-479f-b2e9-575a0314d0cf>,
+        <ffea5ab6-37fd-4b3b-bdb5-01a2f51286ae> ;
     skos:notation "3.1" ;
     skos:prefLabel "Lesefertigkeit: Flüssig lesen"@de .
 
-<f8dd95d3-deed-4fb1-81c5-6fb84e1c4843> a skos:Concept ;
-    skos:broader <c22e63df-39d1-4b94-997e-8ad32bad60e9> ;
+<f3daeec4-a9f9-4092-9fec-84169408201c> a skos:Concept ;
+    skos:broader <43bf03f7-907d-445f-9a75-a060f5688be3> ;
     skos:definition "Die Schülerinnen und Schüler lesen Texte mittlerer Komplexität sinnverstehend."@de ;
     skos:inScheme <> ;
-    skos:narrower <02dbd693-9024-41ff-96c3-c06cc15e001c>,
-        <35091ada-011e-445d-83a4-731eadef442b>,
-        <829b33ed-de47-49e4-b4a5-940388bb1bea>,
-        <deaa7766-c14c-47cf-add4-c66cfaf04501> ;
+    skos:narrower <33efc62d-b154-4d24-858c-e680d2050cc5>,
+        <4a41b650-628e-4060-a7c3-e72619a88b08>,
+        <97138f57-e137-4650-879b-7e81210ef7a1>,
+        <c88d8d8c-033e-45d2-badc-6c7c9759fe0b> ;
     skos:notation "3.3" ;
     skos:prefLabel "Lesefähigkeiten: Leseverstehen"@de .
 
-<5e286271-4630-41da-8f62-97f3a366a2f9> a skos:Concept ;
-    skos:broader <19b84cb0-ea63-4286-a934-a4adbe8cb724> ;
-    skos:definition "Die Schülerinnen und Schüler können an ausgewählten Beispielen sprachliche Strukturen in Texten und Gesprächen, in gesprochener und geschriebener Sprache – auch unter Nutzung von Ressourcen zur deutschen Sprache (z. B. Wörterbücher, Grammatiken) – beschreiben und nutzen."@de ;
+<3d265e55-3a73-420b-b471-ddb717de445c> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Die gesprochene Sprache ist ein zentrales Mittel schulischer und außerschulischer Kommunikation. Dabei ist gesprochene Sprache immer auch soziales Handeln. Die Schülerinnen und Schüler lernen, wichtige kommunikative Situationen in persönlichen, schulischen und öffentlichen Zusammenhängen angemessen und adressatengerecht zu bewältigen. Dabei nutzen sie sprachliche Werkzeuge auch im digitalen Kontext. Die Schülerinnen und Schüler verfügen über eine demokratische Gesprächskultur, die von aufmerksamem Zuhören und respektvollem Gesprächsverhalten geprägt ist. Sie nutzen die Standardsprache. Sie achten auf gelingende Kommunikation und damit auch auf die Wirkung ihres sprachlichen Handelns. Sie führen und moderieren Gespräche und realisieren kommunikative Funktionen wie erzählen, informieren und argumentieren. Sie diskutieren, gestalten ihr Sprechen bewusst und leisten konstruktive gesprochene Beiträge zum Unterricht. Im Kompetenzbereich „Sprechen und Zuhören“ sind die kommunikativen Anforderungen von besonderer Bedeutung. In den Kernbereichen Zu anderen sprechen und Verstehend zuhören sind deswegen grundlegende und situationsübergreifende Standards des Vor anderen Sprechens und Mit anderen Sprechens dargestellt. Der Kernbereich Mit anderen sprechen bezieht sich dementsprechend durchweg auf Situationen, in denen Schülerinnen und Schüler aufeinander Bezug nehmen. Der Kernbereich Vor anderen sprechen umfasst Standards zu solchen Situationen, in denen die Schülerinnen und Schüler eine Zeit lang das Rederecht wahrnehmen, z. B. Präsentationen, Reden. Die Beiträge können dabei jeweils vorbereitet oder unvorbereitet sein. In kommunikativen Situationen können die Schülerinnen und Schüler mit Blick auf die kommunikativen Ziele und die Gesprächspartnerinnen und -partner bewusst das Register wechseln, z. B. Standardsprache, Alltagssprache, Bildungssprache, Fachsprache."@de ;
     skos:inScheme <> ;
-    skos:narrower <3deda0c9-5360-4d99-bf92-eb4067e18f75>,
-        <71579d3a-f289-449b-9e72-b9e67438f8e8>,
-        <b5c4e779-d1ff-4410-bdfc-e0c3a04572d2>,
-        <f7f41c03-b97b-40d7-8d65-20524ddc879c>,
-        <f9157b5a-0be6-4e2c-b610-1790e2c9f21c> ;
-    skos:notation "5.2" ;
-    skos:prefLabel "Sprachliche Strukturen untersuchen und nutzen"@de .
+    skos:narrower <0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010>,
+        <0d121104-63bb-4f0b-8c3d-2ddc11f5029e>,
+        <0e155d12-fd5c-4569-8e5b-c0db8ca06b63>,
+        <b616443c-2534-40bb-84c8-ff175602fdba> ;
+    skos:notation "1" ;
+    skos:prefLabel "Sprechen und Zuhören"@de ;
+    skos:topConceptOf <> .
 
-<6c91616f-b38c-499f-86dc-ff7a4ad41ed1> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
+<43bf03f7-907d-445f-9a75-a060f5688be3> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Lesen ist ein eigenaktiver Prozess der Sinnkonstruktion. Lesen zu können bildet sowohl die Basis dafür, eigenständig zum Vergnügen zu lesen und Leseinteresse und Lesefreude zu entwickeln, als auch dafür, aus Büchern und Texten zu lernen und sich mit ihrer Hilfe mit der Welt auseinanderzusetzen. Der Leseerwerb ist mit der Grundschulzeit nicht abgeschlossen, vielmehr müssen die Lesefertigkeiten und Lesefähigkeiten in der Sekundarstufe I weiterentwickelt und differenziert werden. Ziel ist es, dass die Schülerinnen und Schüler über grundlegende Verfahren für das Verstehen von literarischen Texten sowie Sach- und Gebrauchstexten, auch in digitaler und multimodaler Form, verfügen. Sie entnehmen selbstständig Informationen aus Texten, verknüpfen sie miteinander und verbinden sie mit ihrem Vorwissen. Dafür nutzen sie verschiedene Lesetechniken und setzen Lesestrategien gezielt ein. Die Förderung des Lesens zielt stets auch darauf, das Leseinteresse und die Lesebereitschaft der Schülerinnen und Schüler zu entwickeln und zu pflegen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <7cbb764e-dfc5-4719-8b8b-b60ba3be0006>,
+        <d9ec43c6-d42a-41f2-86ed-03d40b31fb36>,
+        <ed076f4a-dbc9-428e-8c21-c5aa89112aa5>,
+        <f3daeec4-a9f9-4092-9fec-84169408201c> ;
+    skos:notation "3" ;
+    skos:prefLabel "Lesen"@de ;
+    skos:topConceptOf <> .
+
+<6a39148b-dac3-4b88-92ab-27df4a23bcc4> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
     skos:definition "(Formate: z. B. Chats, Videoclips, Computerspiele, Podcasts; Umgebungen: z. B. soziale Netzwerke, Online-Portale, Lernplattformen, Suchmaschinen)"@de ;
     skos:inScheme <> ;
-    skos:narrower <0f4ad397-6660-4e56-9b5a-e0975432f0da>,
-        <3a60f44d-bd02-4714-adfc-59df94f29ceb>,
-        <6a36ffcb-50a2-49ab-9a5f-2eb389a522af>,
-        <6df9f5ab-9eaf-407e-a39b-5df7827682cf>,
-        <dcdd4437-4539-4ec7-a06f-7a65be0078e6> ;
+    skos:narrower <5a36f146-465a-4852-a6a6-2c3908c36cd3>,
+        <963c480c-eedf-4d42-acb0-01ff9b834786>,
+        <c53f973f-ae5b-4736-ad0f-5c66efaedec6>,
+        <cd569e5b-300d-453b-ba8b-4c184aad9099>,
+        <e9f3bc04-f9bd-4b74-afa2-44d8fa849e9b> ;
     skos:notation "4.6" ;
     skos:prefLabel "Digitale Formate und Umgebungen"@de .
 
-<stdESA/> a skos:Concept ;
-    skos:narrower <19b84cb0-ea63-4286-a934-a4adbe8cb724>,
-        <572875fd-d10f-4ea7-b46e-a7def7bb4749>,
-        <93d74630-624b-43c7-a122-8eb8bb9d56b3>,
-        <c22e63df-39d1-4b94-997e-8ad32bad60e9>,
-        <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
-    skos:prefLabel "Standards ESA"@de ;
-    skos:topConceptOf <> .
-
-<572875fd-d10f-4ea7-b46e-a7def7bb4749> a skos:Concept ;
-    skos:broader <stdESA/> ;
-    skos:definition "Die Schülerinnen und Schüler verfügen über ein Grundlagenwissen zu Texten und anderen Medien. Sie können sich selbstständig im Medienangebot orientieren, ihren eigenen Lese- und Medieninteressen nachgehen, aus Texten lernen und die eigene Mediennutzung sowie die Medien selbst kritisch reflektieren und bewerten. Auch digitale Texte und Medien schätzen sie in Hinblick auf ihre Aussagekraft, ihre Intentionen und ihren Sachgehalt angemessen ein. Die Beschäftigung mit literarischen und medienästhetischen Sinnangeboten bietet ihnen Möglichkeiten, sich – auch in interkultureller Perspektive – mit individuellen, sozialen und gesellschaftlichen Grundfragen auseinanderzusetzen und Unvertrautes und Vertrautes aufeinander zu beziehen. So trägt der kompetente Umgang mit Texten in unterschiedlicher medialer Form wesentlich zur Entwicklung von Selbst- und Fremdverstehen bei. Er fördert die persönliche Entwicklung und eröffnet Möglichkeiten gesellschaftlicher Teilhabe."@de ;
+<f586de02-3532-4c0a-95ff-eb018247ce78> a skos:Concept ;
+    skos:broader <4fda9d89-2b58-4dab-b6b4-ca353b7b3877> ;
+    skos:definition "Die Schülerinnen und Schüler können an ausgewählten Beispielen sprachliche Strukturen in Texten und Gesprächen, in gesprochener und geschriebener Sprache – auch unter Nutzung von Ressourcen zur deutschen Sprache (z. B. Wörterbücher, Grammatiken) – beschreiben und nutzen."@de ;
     skos:inScheme <> ;
-    skos:narrower <00648b80-4d84-43f2-9f6a-6fdf3a24092f>,
-        <6c91616f-b38c-499f-86dc-ff7a4ad41ed1>,
-        <9755c33b-741a-4d70-879f-2780bf44460d>,
-        <d448b9d2-22cf-4414-8bc5-a19ae52fea75>,
-        <e89d83c8-fca3-44aa-bca4-80394744bce5>,
-        <f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> ;
-    skos:notation "4" ;
-    skos:prefLabel "Sich mit Texten und anderen Medien auseinandersetzen"@de .
+    skos:narrower <5416ead0-95b1-4037-93ca-e6e56b2f76aa>,
+        <a3b9d6ee-64d7-4bc7-b0ed-a35a94d4395a>,
+        <b7b78d38-7692-41f4-8d37-4b2f7c382b00>,
+        <baa9f8c0-2ef6-4712-9f99-f4487283998d>,
+        <bb88b298-d2fc-41e8-9961-8c79d54170ad> ;
+    skos:notation "5.2" ;
+    skos:prefLabel "Sprachliche Strukturen untersuchen und nutzen"@de .
 
-<758fbdfa-e9d7-4427-a5b2-8af989b5f880> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
+<8bf42c90-34e3-4338-ad80-97682a6038a9> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
     skos:definition "Die Schülerinnen und Schüler nutzen Kriterien für die Textüberprüfung und ‐überarbeitung. Im Rahmen von Feedbackprozessen identifizieren sie den Überarbeitungsbedarf eigener und fremder Texte. Sie können Texte insbesondere hinsichtlich ihrer Angemessenheit und Verständlichkeit inhaltlich, sprachlich und auf Textkohärenz bezogen überarbeiten und dabei Überarbeitungsstrategien reflektiert anwenden."@de ;
     skos:inScheme <> ;
-    skos:narrower <00a6d3d7-fa42-48ca-8303-e745aa4f6f2e>,
-        <3c2ae2cc-e651-460f-b6a7-06b1b37fb863>,
-        <58b969ed-0330-46f1-8927-8ce67d8910af>,
-        <5b37b591-d9a4-41d4-bfae-fcfa2d4fd3f5>,
-        <834e5e19-0a5b-41bf-8fbe-ce9dfc28da43>,
-        <e8429753-2188-4bad-804e-0682532c8630> ;
+    skos:narrower <27511e65-71ee-4fce-8a18-4eb6735544ea>,
+        <6e4fede6-0b48-4bf3-92e3-f85537595047>,
+        <81c8dd30-adf6-443b-8c36-864b6b73286f>,
+        <83ec7a57-27b7-4956-b557-7b576db9be6a>,
+        <ae199b65-1294-41bd-892c-afd046892cb8>,
+        <e0272109-9210-4cbf-b0bc-fc03aab06bed> ;
     skos:notation "2.6" ;
     skos:prefLabel "Texte überarbeiten"@de .
 
-<fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> a skos:Concept ;
-    skos:broader <stdESA/> ;
-    skos:definition "Im Unterschied zum Sprechen wird beim Schreiben in handschriftlicher wie digitaler Form der Text langsamer und überlegter entwickelt, über Geschriebenes kann auch mit anderen nachgedacht und es kann entsprechend überarbeitet werden. Die Schülerinnen und Schüler verfügen über Schreibfertigkeiten, eine korrekte Rechtschreibung und über gesicherte Möglichkeiten des Schreibens als Mittel der Kommunikation. Sie schreiben und formulieren flüssig. Sie können Texte zur besseren Lesbarkeit orthografisch richtig schreiben. Orthografische Zweifelsfälle klären sie sicher mithilfe orthografischer Strategien und durch Nachschlagen. Sie beherrschen die Zeichensetzung. Sie haben Einsicht in die Prinzipien der Rechtschreibung gewonnen, kennen Rechtschreibstrategien und wenden diese reflektiert an. Sie bauen ihre individuelle Fehleraufmerksamkeit weiter aus und gelangen durch das Anwenden von Rechtschreibstrategien und Nachschlagen zu richtigen Schreibungen. Die Schülerinnen und Schüler entwickeln ihre Schreibkompetenz weiter und festigen diese zunehmend, um zu kommunizieren, um Informationen festzuhalten, sich gedanklich mit einem Sachverhalt auseinanderzusetzen und kreativ und gestaltend mit Sprache umgehen zu können. Sie können Ergebnisse der inhaltlichen Auseinandersetzung und Untersuchung von Texten in den Grundzügen darstellen. Sie verfassen auch für unbekannte und unterschiedliche Leserinnen und Leser adressatenorientiert Texte zu verschiedenen Textsorten mit Ausdrucks-, Darstellungs- und Appellfunktion. Sie können eigene Texte gestützt auf mehrere und unterschiedliche Quellen schreiben und deren Informationen und Positionen verarbeiten wie auch in den Grundzügen sprachlich integrieren, nachweisen und kennzeichnen. Sie gestalten ihren Schreibprozess weitgehend selbstständig und bauen ihre Fähigkeiten im Umgang mit den Anforderungen des Schreibens im Hinblick auf allgemeine Texteigenschaften, auf Adressaten, Textfunktion, Schreibanlass und Textsorte, auf Formen kooperativen Schreibens, digitale Schreibwerkzeuge und Schreibstrategien weiter aus. Den Zielen der Sekundarstufe entsprechend können sie Darstellungen, Quellen und Belege formal in eigene Texte integrieren. Sie nutzen Textverarbeitungsprogramme für Überarbeitungsprozesse."@de ;
-    skos:inScheme <> ;
-    skos:narrower <2601a2a4-1b3c-4b85-b45c-6d8cf476c805>,
-        <3b60f662-d506-4dff-9e73-6eadffbfe536>,
-        <72f16d34-94df-4fa6-abbc-c203a5de2ee4>,
-        <758fbdfa-e9d7-4427-a5b2-8af989b5f880>,
-        <812cd850-5f18-4593-8287-656949f90e83>,
-        <ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> ;
-    skos:notation "2" ;
-    skos:prefLabel "Schreiben"@de .
-
-<e9e902c6-75bd-442b-a0cb-1e1b8a264ebc> a skos:Concept ;
-    skos:broader <93d74630-624b-43c7-a122-8eb8bb9d56b3> ;
+<0281ff3d-3ca8-4cdf-b1aa-a7ce00e23010> a skos:Concept ;
+    skos:broader <3d265e55-3a73-420b-b471-ddb717de445c> ;
     skos:definition "Die Schülerinnen und Schüler können in vertrauten und unvertrauten Situationen mit mehreren Teilnehmerinnen und Teilnehmern aufeinander Bezug nehmen, um kommunikative Ziele zu verfolgen."@de ;
     skos:inScheme <> ;
-    skos:narrower <0ccf57ff-3e61-4602-9bb8-32b5a55e57f9>,
-        <0d6609d3-e022-437a-a873-974646b6e81d>,
-        <497bf7df-f7f2-4bed-bdc6-0391f029bb70>,
-        <7e22f7f8-fbfe-4b4b-9f48-c511f61ff5ed>,
-        <7eae6f3e-67ef-4cf8-b0cd-7558da67f434>,
-        <c2671319-9d8a-4551-a476-94ae0a1797a8>,
-        <ee2c26f2-4159-436c-8105-69ffe65b8187> ;
+    skos:narrower <0236ff05-6e8b-442d-af67-485cdb984e67>,
+        <3146885b-5afe-45bd-890f-35f11c000a0f>,
+        <5971fa26-8c16-4b5b-94bd-6b07ef633fdc>,
+        <6bb511f2-cf95-49fd-9c4b-3450c79cc349>,
+        <b06c88d1-99c1-4103-93db-e1a0f4a8c87e>,
+        <b410a352-07bb-4a43-bdf1-d12f5fdecd7b>,
+        <e2fd1b9e-cc73-4fd8-80aa-c5c85d9d5de2> ;
     skos:notation "1.3" ;
     skos:prefLabel "Mit anderen sprechen"@de .
 
-<f343c4ed-3df9-43e9-acc4-7e9c2654e3dc> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
+<0ed412b1-7473-45ce-b162-51cabf8d48b8> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Die Schülerinnen und Schüler verfügen über ein Grundlagenwissen zu Texten und anderen Medien. Sie können sich selbstständig im Medienangebot orientieren, ihren eigenen Lese- und Medieninteressen nachgehen, aus Texten lernen und die eigene Mediennutzung sowie die Medien selbst kritisch reflektieren und bewerten. Auch digitale Texte und Medien schätzen sie in Hinblick auf ihre Aussagekraft, ihre Intentionen und ihren Sachgehalt angemessen ein. Die Beschäftigung mit literarischen und medienästhetischen Sinnangeboten bietet ihnen Möglichkeiten, sich – auch in interkultureller Perspektive – mit individuellen, sozialen und gesellschaftlichen Grundfragen auseinanderzusetzen und Unvertrautes und Vertrautes aufeinander zu beziehen. So trägt der kompetente Umgang mit Texten in unterschiedlicher medialer Form wesentlich zur Entwicklung von Selbst- und Fremdverstehen bei. Er fördert die persönliche Entwicklung und eröffnet Möglichkeiten gesellschaftlicher Teilhabe."@de ;
     skos:inScheme <> ;
-    skos:narrower <1c7d3b1a-4098-4560-ac2b-268b2d0393df>,
-        <1d3c9766-df9b-49c3-b6d9-2c471aa49c17>,
-        <384e9383-7a9c-4da8-8fb4-4238c963e231>,
-        <3da0fa27-7e78-4845-a92a-f85f541c63e4>,
-        <a2b16c43-eff0-4783-8753-668af2fc93be>,
-        <a42213ee-3aca-435e-81a8-4e90c5002164>,
-        <ed50992b-6845-4796-947c-a2ab797bf12c> ;
+    skos:narrower <1bb0a5bb-5119-4c4c-a704-38c091113e88>,
+        <6a39148b-dac3-4b88-92ab-27df4a23bcc4>,
+        <bdf3c3b2-db9f-4b2c-b31c-7eacdc4b8d7d>,
+        <d7b3f602-fd29-4c99-b6ec-4bfbcbba67a8>,
+        <d958bbd6-b3d0-4469-b150-bea15d8af9d3>,
+        <f135dc50-e10f-4fdf-ae3f-a07c03e19db6> ;
+    skos:notation "4" ;
+    skos:prefLabel "Sich mit Texten und anderen Medien auseinandersetzen"@de ;
+    skos:topConceptOf <> .
+
+<9ea66755-2abf-4e9f-94e8-15fbc93c5531> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Im Unterschied zum Sprechen wird beim Schreiben in handschriftlicher wie digitaler Form der Text langsamer und überlegter entwickelt, über Geschriebenes kann auch mit anderen nachgedacht und es kann entsprechend überarbeitet werden. Die Schülerinnen und Schüler verfügen über Schreibfertigkeiten, eine korrekte Rechtschreibung und über gesicherte Möglichkeiten des Schreibens als Mittel der Kommunikation. Sie schreiben und formulieren flüssig. Sie können Texte zur besseren Lesbarkeit orthografisch richtig schreiben. Orthografische Zweifelsfälle klären sie sicher mithilfe orthografischer Strategien und durch Nachschlagen. Sie beherrschen die Zeichensetzung. Sie haben Einsicht in die Prinzipien der Rechtschreibung gewonnen, kennen Rechtschreibstrategien und wenden diese reflektiert an. Sie bauen ihre individuelle Fehleraufmerksamkeit weiter aus und gelangen durch das Anwenden von Rechtschreibstrategien und Nachschlagen zu richtigen Schreibungen. Die Schülerinnen und Schüler entwickeln ihre Schreibkompetenz weiter und festigen diese zunehmend, um zu kommunizieren, um Informationen festzuhalten, sich gedanklich mit einem Sachverhalt auseinanderzusetzen und kreativ und gestaltend mit Sprache umgehen zu können. Sie können Ergebnisse der inhaltlichen Auseinandersetzung und Untersuchung von Texten in den Grundzügen darstellen. Sie verfassen auch für unbekannte und unterschiedliche Leserinnen und Leser adressatenorientiert Texte zu verschiedenen Textsorten mit Ausdrucks-, Darstellungs- und Appellfunktion. Sie können eigene Texte gestützt auf mehrere und unterschiedliche Quellen schreiben und deren Informationen und Positionen verarbeiten wie auch in den Grundzügen sprachlich integrieren, nachweisen und kennzeichnen. Sie gestalten ihren Schreibprozess weitgehend selbstständig und bauen ihre Fähigkeiten im Umgang mit den Anforderungen des Schreibens im Hinblick auf allgemeine Texteigenschaften, auf Adressaten, Textfunktion, Schreibanlass und Textsorte, auf Formen kooperativen Schreibens, digitale Schreibwerkzeuge und Schreibstrategien weiter aus. Den Zielen der Sekundarstufe entsprechend können sie Darstellungen, Quellen und Belege formal in eigene Texte integrieren. Sie nutzen Textverarbeitungsprogramme für Überarbeitungsprozesse."@de ;
+    skos:inScheme <> ;
+    skos:narrower <2740db2e-5e56-43fb-951f-209acb552316>,
+        <33832aa4-9de3-44b4-811e-c1ef0d451b23>,
+        <68c631fb-9471-4b25-a0cb-726b3f10fb2b>,
+        <8bf42c90-34e3-4338-ad80-97682a6038a9>,
+        <da690f42-0b14-4717-9070-6e8c40bf2c0a>,
+        <fe47990d-7fda-4769-b962-878a62b2521d> ;
+    skos:notation "2" ;
+    skos:prefLabel "Schreiben"@de ;
+    skos:topConceptOf <> .
+
+<d958bbd6-b3d0-4469-b150-bea15d8af9d3> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
+    skos:inScheme <> ;
+    skos:narrower <3632c5da-bf5a-4f2d-910e-32cde8f47ac2>,
+        <399ec9f7-358b-47bb-be4f-397d9fca754b>,
+        <5c2a9535-29a3-4bca-9412-300a1de41e48>,
+        <77dc314b-814a-4c37-b515-b4c8d1bcf90c>,
+        <88a7ce4e-2e00-4767-b943-bcdea0cecd12>,
+        <aaa3f993-3185-4d74-8310-f2e924fe0c4f>,
+        <d889c1ff-e5a2-487d-935c-8c347a3a3997> ;
     skos:notation "4.5" ;
     skos:prefLabel "Pragmatische Texte in unterschiedlicher Medialität"@de .
 
-<ab1a5cae-610d-4c9f-9b7d-6ed2c7a9d8e8> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
+<33832aa4-9de3-44b4-811e-c1ef0d451b23> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
     skos:definition "Die Schülerinnen und Schüler schreiben häufig vorkommende Wörter wie auch häufige Fach- und Fremdwörter richtig, sie beachten die Zeichensetzung, entwickeln ihre Fehleraufmerksamkeit weiter, kennen Rechtschreibstrategien und Rechtschreibhilfen und wenden diese zur Klärung fraglicher Schreibungen an. Sie nutzen selbstständig Übungsformen und überprüfen und korrigieren Texte auf ihre orthografische Richtigkeit"@de ;
     skos:inScheme <> ;
-    skos:narrower <134ebcc8-53be-4668-83b9-cf42fec52ee8>,
-        <2b4c25b0-7b46-456e-99b8-8bb01b9a81d4>,
-        <a21b9187-9c23-4cfa-ba13-5a4e3848f777>,
-        <ab64b472-02f2-4dd7-9d56-f54077346024>,
-        <aff7942f-0705-46ce-a33b-a923507802ed>,
-        <b3a4bd97-0670-4234-8a90-1a6dca6d59fd>,
-        <c3d94e20-c4bc-4fb4-a1a6-84a39f9ca1e7>,
-        <dbf764b5-a718-450e-a529-cafe57dfd83b> ;
+    skos:narrower <008fbecd-d667-4304-a097-491936b91f40>,
+        <6463a2b0-5c9b-4208-9411-6d30e8f78900>,
+        <7c17524e-e67b-42a9-b2c1-bffb93be17c8>,
+        <bab65b07-068e-428e-aa8e-741ce7469b3d>,
+        <cb32312c-a1f7-40fa-a8c6-85128d9b785d>,
+        <d4f38ecf-9ecc-4fc1-8e8e-15d46c8bed9d>,
+        <df91e814-dbd9-4ee2-b92c-0e3b86e21ae8>,
+        <edfb72a7-6d75-412c-878a-869e5e45bf1c> ;
     skos:notation "2.2" ;
     skos:prefLabel "Orthografisch schreiben"@de .
 
-<72f16d34-94df-4fa6-abbc-c203a5de2ee4> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
-    skos:definition "Die Schülerinnen und Schüler beherrschen grundlegende Schreibfunktionen, sie können Texte zu unterschiedlichen Textsorten und Funktionen für sich, für auch unbekannte und unterschiedliche Adressaten verständlich und angemessen formulieren (selbstständig und kooperativ). Sie nutzen digitale Schreibumgebungen und wenden Schreibstrategien an."@de ;
-    skos:inScheme <> ;
-    skos:narrower <1f61e90c-17a3-4f45-bf36-fd036ec63e6c>,
-        <2efa3c44-e8e8-4afc-8ba2-6986fc491859>,
-        <3d63eaeb-cb15-4954-a7fb-0d48c4312001>,
-        <7be9ec6a-ad0c-441f-84ff-7419663d50fc>,
-        <b9f5d5d1-7649-48fe-9b76-d8dc39a24ec2>,
-        <c4807e4c-0cd1-415e-a186-7ae56bb2d314>,
-        <d34f356a-2a47-4027-ac06-be6fe75f1963>,
-        <ddda1aed-1f45-4999-b405-5fd7173f0ce0>,
-        <e5ac40c3-d79e-4f7e-860e-08929141750c> ;
-    skos:notation "2.5" ;
-    skos:prefLabel "Texte formulieren"@de .
-
-<812cd850-5f18-4593-8287-656949f90e83> a skos:Concept ;
-    skos:broader <fc95aa88-2b6a-4edc-aa82-4bf0d63f32f1> ;
-    skos:definition "Die Schülerinnen und Schüler können ihre Schreibumgebung (Arbeitsplatz mit Blatt oder Heft und Stift bzw. digitalen Schreibumgebungen) organisieren und Planungsschritte individuell und kooperativ mithilfe von Planungsstrategien durchführen."@de ;
-    skos:inScheme <> ;
-    skos:narrower <132c22a2-2e06-4804-993e-9e488b26feed>,
-        <1d8dd990-4939-4f4d-92a5-ab1b5b20a735>,
-        <41bb5daf-c5f6-45b7-a691-d01642535954>,
-        <774a0c5d-170c-48d2-b549-2c55b4631acd>,
-        <90096d65-43b2-4f4c-a710-9009bbd6880c>,
-        <a0dd78f5-28c3-4b99-8c66-e028ed5756f4>,
-        <cb4bd3da-5be7-4fd4-8f1b-85177995f357>,
-        <ed5115ba-ef78-4471-b62a-061f6873c45e>,
-        <fd78940d-10aa-4b7c-882e-16f7f6220ed8> ;
-    skos:notation "2.4" ;
-    skos:prefLabel "Texte planen und strukturieren"@de .
-
-<b0a486d4-2e30-449b-9080-3f1847a466fc> a skos:Concept ;
-    skos:broader <93d74630-624b-43c7-a122-8eb8bb9d56b3> ;
+<b616443c-2534-40bb-84c8-ff175602fdba> a skos:Concept ;
+    skos:broader <3d265e55-3a73-420b-b471-ddb717de445c> ;
     skos:definition "Die Schülerinnen und Schüler können in vertrauten und unvertrauten Situationen des vor und mit anderen Sprechens angemessen und adressatengerecht kommunizieren, z. B. in Gesprächen, bei Präsentationen."@de ;
     skos:inScheme <> ;
-    skos:narrower <1472139b-fc68-4542-a5e4-60831bbd9258>,
-        <28eaa364-c4c6-4501-9f53-6c7c7474643a>,
-        <2e2bfb3e-2726-4cc8-8c0c-13bb59c68de9>,
-        <381a24d2-c31f-4375-b3fe-c84f36ec5372>,
-        <593e08d3-222b-4407-a2f3-340bbdc52ec2>,
-        <60abbded-b8e7-4ee6-bc85-2f4641134f1d>,
-        <8b7ebf82-b43f-438c-be21-31f2998e6500>,
-        <8ff0673c-1e36-452e-89b0-25e6d163a47f>,
-        <ca97be5c-46b6-429d-8306-29d2da20ed64> ;
+    skos:narrower <146dda73-1e6c-4d8a-92cf-5b3ba4c780bd>,
+        <165d2fad-3aa1-41b7-bcd2-74a66ee7189d>,
+        <36946b4a-1a59-45ec-bb3d-9eb76d53c010>,
+        <4342c6e1-e99d-4e26-8c24-3677fc4ad952>,
+        <76ac296c-e959-48c0-953c-f037d648e822>,
+        <823ad5ca-4af1-492c-9b1e-4ab9b1fb316f>,
+        <90da55c4-d9db-42ab-b6d1-af8c07c6def9>,
+        <9e86e181-633b-44b7-92de-c89bb21859ab>,
+        <da765ffd-9bf4-4ed8-9b2b-84279bcd9f81> ;
     skos:notation "1.1" ;
     skos:prefLabel "Zu anderen sprechen"@de .
 
-<d448b9d2-22cf-4414-8bc5-a19ae52fea75> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
+<da690f42-0b14-4717-9070-6e8c40bf2c0a> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
+    skos:definition "Die Schülerinnen und Schüler beherrschen grundlegende Schreibfunktionen, sie können Texte zu unterschiedlichen Textsorten und Funktionen für sich, für auch unbekannte und unterschiedliche Adressaten verständlich und angemessen formulieren (selbstständig und kooperativ). Sie nutzen digitale Schreibumgebungen und wenden Schreibstrategien an."@de ;
+    skos:inScheme <> ;
+    skos:narrower <1aa7f23a-8ec3-41c1-9f40-2a388556e239>,
+        <3d1c4db0-e299-4da0-a539-922cb27b198d>,
+        <4b13c631-ff78-462a-bbf0-ef1ae7744f68>,
+        <9223d066-b94e-4b57-81c3-41a9d467f64c>,
+        <9a6d178a-b324-4b8a-b770-64267b3ca23d>,
+        <a7994ce2-b427-446a-8794-e39f43ea6aee>,
+        <a939f328-c106-44a7-add2-fe130908ff5c>,
+        <d00b3481-031a-4492-8e3f-5a27a03a63ce>,
+        <deb323ed-9c8c-41fb-8248-b803fbe88bdf> ;
+    skos:notation "2.5" ;
+    skos:prefLabel "Texte formulieren"@de .
+
+<fe47990d-7fda-4769-b962-878a62b2521d> a skos:Concept ;
+    skos:broader <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
+    skos:definition "Die Schülerinnen und Schüler können ihre Schreibumgebung (Arbeitsplatz mit Blatt oder Heft und Stift bzw. digitalen Schreibumgebungen) organisieren und Planungsschritte individuell und kooperativ mithilfe von Planungsstrategien durchführen."@de ;
+    skos:inScheme <> ;
+    skos:narrower <0924ab1d-15e6-4e02-a987-81e843678980>,
+        <15f80145-c1bc-4576-b701-3f4a343f9d2d>,
+        <411d9b56-1bef-4a23-b941-181be6621623>,
+        <4375cb6b-b53e-427e-b28a-89abf0f13990>,
+        <44f38ce5-4984-4853-a178-c16dae9f9059>,
+        <56375b21-7631-44da-8eff-494196c08067>,
+        <899d07ac-60fa-4cf0-a8bd-ba68fe8018d7>,
+        <ab9e8fc2-b27b-445b-ad60-62cc01116c9f>,
+        <b90b6f04-fafc-4f5a-b693-033328c97ed9> ;
+    skos:notation "2.4" ;
+    skos:prefLabel "Texte planen und strukturieren"@de .
+
+<1bb0a5bb-5119-4c4c-a704-38c091113e88> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
     skos:definition "Die Schülerinnen und Schüler verfügen über ein Orientierungswissen zu Texten unterschiedlicher medialer Form, Textsorten und Gattungen."@de ;
     skos:inScheme <> ;
-    skos:narrower <37075236-df10-4504-b9f2-13c27fd743ab>,
-        <393a1aa8-a21b-400c-8408-b3e737952943>,
-        <5408f428-63fd-4b16-80e7-0eabdaee8bc7>,
-        <5a9eab7a-587b-4f0c-9b21-3e364cbd5c90>,
-        <736a1378-9342-4886-897b-e256e60eafde>,
-        <88834c4f-99ec-4d9b-b85a-a84e10a4e6e9>,
-        <8a76a654-92e3-4a59-a603-9ccfa7910fd4>,
-        <ab7406de-9390-438e-a79d-6fe5ac35a2ad>,
-        <e4415b96-242e-4e64-9438-78615985633e>,
-        <f385a6a5-0080-4752-b2fe-166d6ae01ce3> ;
+    skos:narrower <1391c930-6efc-4618-822f-5d15466058b8>,
+        <30472d31-413f-4470-9fa0-5c37feeebd70>,
+        <3b4b8e96-9433-4ac4-b49f-2d1f88963e63>,
+        <6212cdc9-2703-48e7-902e-ac8b35347066>,
+        <abcd08f2-d7bd-480c-a31f-0cc21244a2b4>,
+        <baa52189-a79c-467b-b415-035d460206ca>,
+        <bdd0198f-ce03-4847-be44-2e68d9858e80>,
+        <e84a567b-db8b-45c9-80bc-b56be4701ef3>,
+        <e9413b06-7bba-43ff-9f7b-4e7b42be37db>,
+        <ef5bb713-d028-43f5-862b-78d396db25dd> ;
     skos:notation "4.1" ;
     skos:prefLabel "Über Textwissen verfügen"@de .
 
-<e89d83c8-fca3-44aa-bca4-80394744bce5> a skos:Concept ;
-    skos:broader <572875fd-d10f-4ea7-b46e-a7def7bb4749> ;
+<f135dc50-e10f-4fdf-ae3f-a07c03e19db6> a skos:Concept ;
+    skos:broader <0ed412b1-7473-45ce-b162-51cabf8d48b8> ;
     skos:inScheme <> ;
-    skos:narrower <0f7e637e-7d64-4054-971f-567ab2a923e8>,
-        <11aeec21-8b4b-4fb8-a78c-edb2a6f0e909>,
-        <5f009cec-8782-41a9-987e-df533da253d6>,
-        <834b3f8f-0db0-41be-9264-89f3d0101f74>,
-        <93363df6-a115-4193-8840-e63389f2676d>,
-        <a303b286-34d1-471e-a7fd-f3b788e0ad14>,
-        <ab5a32ac-8900-416b-9e22-1cdfc9da44d2>,
-        <d6ee1a62-05b4-4858-a9d5-9244c81a9991>,
-        <e083c2bf-3907-4212-8d7a-97b274190172>,
-        <e7adf321-488b-4a9d-8197-86b714736098>,
-        <f7dacb38-cfd7-4c32-b797-f6780b6ec7b1> ;
+    skos:narrower <054f659d-8456-4ffb-b025-56797be5ff3b>,
+        <11ea6537-81f9-435b-8e0a-e617921cf0f8>,
+        <363e157b-1df9-4f51-9f24-6e1b903e9ca2>,
+        <5c41ef50-a68d-49e4-bed6-bc3a883d25f4>,
+        <6e172f20-ec48-4a57-af64-76282ed07447>,
+        <77a9e9a8-2ef4-4382-9ff1-feea4fa0e400>,
+        <bbf12978-b15b-4fe6-9b32-0bda7efcab36>,
+        <c60aa3b3-a91d-4256-9824-56d36b61e3bc>,
+        <c90a1261-a1fb-4485-a05b-0c2627ed7a48>,
+        <da15f11e-70f5-4259-84d3-be94f4132fca>,
+        <f830124d-c835-42e9-8e13-5e4522a9ca7e> ;
     skos:notation "4.4" ;
     skos:prefLabel "Literatur in unterschiedlicher Medialität"@de .
 
@@ -1015,5 +1011,15 @@
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description ""@de ;
     dct:title "Deutsch Sek1_Standards ESA"@de ;
-    skos:hasTopConcept <stdESA/> .
+    skos:hasTopConcept <0ed412b1-7473-45ce-b162-51cabf8d48b8>,
+        <3d265e55-3a73-420b-b471-ddb717de445c>,
+        <43bf03f7-907d-445f-9a75-a060f5688be3>,
+        <4fda9d89-2b58-4dab-b6b4-ca353b7b3877>,
+        <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
+    skos:narrower <0ed412b1-7473-45ce-b162-51cabf8d48b8>,
+        <3d265e55-3a73-420b-b471-ddb717de445c>,
+        <43bf03f7-907d-445f-9a75-a060f5688be3>,
+        <4fda9d89-2b58-4dab-b6b4-ca353b7b3877>,
+        <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
+    skos:prefLabel "Standards ESA"@de .
 
