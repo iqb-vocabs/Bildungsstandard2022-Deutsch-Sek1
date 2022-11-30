@@ -1022,4 +1022,4 @@
         <4fda9d89-2b58-4dab-b6b4-ca353b7b3877>,
         <9ea66755-2abf-4e9f-94e8-15fbc93c5531> ;
     skos:prefLabel "Standards ESA"@de .
-
+  
