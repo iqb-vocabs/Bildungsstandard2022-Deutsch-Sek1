@@ -2,23 +2,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<833a8e21-7d02-4b36-a73a-2e6c6b041ce7> a skos:Concept ;
-    skos:broader <> ;
-    skos:definition "Umfasst das Verarbeiten komplexer Sachverhalte (auch auf der Basis von Texten unterschiedlicher medialer Form) mit dem Ziel, zu selbstständigen Lösungen, Gestaltungen oder Deutungen, Folgerungen, Verallgemeinerungen, Begründungen und Wertungen zu gelangen. Dabei wählen die Schülerinnen und Schüler selbstständig geeignete Arbeitstechniken, Strategien und Verfahren zur Bewältigung der Aufgabe, wenden sie auf eine neue Problemstellung an und reflektieren das eigene Vorgehen."@de ;
-    skos:inScheme <> ;
-    skos:notation "3" ;
-    skos:prefLabel "Anforderungsbereich III"@de ;
-    skos:topConceptOf <> .
-
-<b4e3ad78-ed1f-4bb8-bf75-a43fa1277a15> a skos:Concept ;
-    skos:broader <> ;
-    skos:definition "Umfasst das selbstständige Anordnen, Verarbeiten, Erklären und Darstellen bekannter Sachverhalte (auch auf der Basis von Texten unterschiedlicher medialer Form) unter vorgegebenen Gesichtspunkten in einem durch Übung bekannten Zusammenhang und das selbstständige Übertragen und Anwenden des Gelernten auf vergleichbare neue Zusammenhänge und Sachverhalte."@de ;
-    skos:inScheme <> ;
-    skos:notation "2" ;
-    skos:prefLabel "Anforderungsbereich II"@de ;
-    skos:topConceptOf <> .
-
-<e2a33781-9e20-4a65-bd70-f72bc636ddde> a skos:Concept ;
+<522392a1-e595-43a9-a577-2cc58e21a26a> a skos:Concept ;
     skos:broader <> ;
     skos:definition "Umfasst das Wiedergeben von Sachverhalten, Textinhalten und Kenntnissen im gelernten Zusammenhang, die Verständnissicherung sowie das Anwenden und Beschreiben geübter Arbeitstechniken und Verfahren."@de ;
     skos:inScheme <> ;
@@ -26,15 +10,30 @@
     skos:prefLabel "Anforderungsbereich I"@de ;
     skos:topConceptOf <> .
 
+<5420b941-773c-4320-94a0-2d93f435d75e> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Umfasst das selbstständige Anordnen, Verarbeiten, Erklären und Darstellen bekannter Sachverhalte (auch auf der Basis von Texten unterschiedlicher medialer Form) unter vorgegebenen Gesichtspunkten in einem durch Übung bekannten Zusammenhang und das selbstständige Übertragen und Anwenden des Gelernten auf vergleichbare neue Zusammenhänge und Sachverhalte."@de ;
+    skos:inScheme <> ;
+    skos:notation "2" ;
+    skos:prefLabel "Anforderungsbereich II"@de ;
+    skos:topConceptOf <> .
+
+<e7f68248-09ae-4855-b3db-926ecf048850> a skos:Concept ;
+    skos:broader <> ;
+    skos:definition "Umfasst das Verarbeiten komplexer Sachverhalte (auch auf der Basis von Texten unterschiedlicher medialer Form) mit dem Ziel, zu selbstständigen Lösungen, Gestaltungen oder Deutungen, Folgerungen, Verallgemeinerungen, Begründungen und Wertungen zu gelangen. Dabei wählen die Schülerinnen und Schüler selbstständig geeignete Arbeitstechniken, Strategien und Verfahren zur Bewältigung der Aufgabe, wenden sie auf eine neue Problemstellung an und reflektieren das eigene Vorgehen."@de ;
+    skos:inScheme <> ;
+    skos:notation "3" ;
+    skos:prefLabel "Anforderungsbereich III"@de ;
+    skos:topConceptOf <> .
+
 <> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description ""@de ;
     dct:title "Deutsch Sek1_Anforderungsbereiche"@de ;
-    skos:hasTopConcept <833a8e21-7d02-4b36-a73a-2e6c6b041ce7>,
-        <b4e3ad78-ed1f-4bb8-bf75-a43fa1277a15>,
-        <e2a33781-9e20-4a65-bd70-f72bc636ddde> ;
-    skos:narrower <833a8e21-7d02-4b36-a73a-2e6c6b041ce7>,
-        <b4e3ad78-ed1f-4bb8-bf75-a43fa1277a15>,
-        <e2a33781-9e20-4a65-bd70-f72bc636ddde> ;
+    skos:hasTopConcept <522392a1-e595-43a9-a577-2cc58e21a26a>,
+        <5420b941-773c-4320-94a0-2d93f435d75e>,
+        <e7f68248-09ae-4855-b3db-926ecf048850> ;
+    skos:narrower <522392a1-e595-43a9-a577-2cc58e21a26a>,
+        <5420b941-773c-4320-94a0-2d93f435d75e>,
+        <e7f68248-09ae-4855-b3db-926ecf048850> ;
     skos:prefLabel "Anforderungsbereiche"@de .
 
